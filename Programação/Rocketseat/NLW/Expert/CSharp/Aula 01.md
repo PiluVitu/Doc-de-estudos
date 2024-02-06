@@ -5,4 +5,10 @@
 - Conclusão é que o setup de projetos é bem fácil, seja para *Iniciar* um projeto ou *criar componentes* da sua aplicação
 # Conceitos básicos de C# 
 
-- Aprendendo... e é isso, dalle pae n tem como, vamo tentar passar isso para o git e vamos esperar 1 minutin se der bom é o drin
+### namespace 
+- É o nome da pasta do arquivo em questão, onde o nome dos arquivos são separados por `.`  a medida que se vai tendo mais pastas  
+```c#
+namespace RocketseatAuction.API.Controllers
+```
+### using 
+- Consigo pensar o using como um `import` no Javascript  
