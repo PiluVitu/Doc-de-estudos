@@ -6,9 +6,15 @@
 # Conceitos básicos de C# 
 
 ### namespace 
-- É o nome da pasta do arquivo em questão, onde o nome dos arquivos são separados por `.`  a medida que se vai tendo mais pastas  
+- É o nome da pasta do arquivo em questão, onde o nome dos arquivos são separados por `.`  a medida que se vai tendo mais pastas.
 ```c#
 namespace RocketseatAuction.API.Controllers
 ```
 ### using 
-- Consigo pensar o using como um `import` no Javascript  
+- Consigo pensar o using como um [[`import`]] no Javascript, mas não sei se seria algo mais parecido com [[herança]] de classes.
+```c#
+using Microsoft.AspNetCore.Mvc
+```
+
+> Acredito que a formatação padrão para escrita de arquivos, funções e variáveis seja [[Pascal Case]] 
+
