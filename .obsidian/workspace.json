@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b1b05c760e906d9d",
+        "id": "848b7aa87d2cf9df",
         "type": "tabs",
         "children": [
           {
-            "id": "67c15236422a19a9",
+            "id": "7c6b75ca5844b2f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a56413f22027b736",
@@ -148,9 +149,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67c15236422a19a9",
+  "active": "7c6b75ca5844b2f7",
   "lastOpenFiles": [
     "Welcome.md",
+    "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
     "Programação/Rocketseat",
     "Excalidraw/Drawing 2024-02-06 18.08.49.excalidraw.md",
     "Excalidraw",
