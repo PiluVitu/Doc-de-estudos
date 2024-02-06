@@ -1,5 +1,8 @@
 [
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-auto-link-title",
+  "highlightr-plugin",
+  "url-into-selection"
 ]
