@@ -31,7 +31,7 @@ public IActionResult GetCurrentAuction() {
 >Com base no exemplo dado acima é possível ver que um [[status code]] é retornado na função com seu nome e não pelo seu código, me lembro de ter visto algo assim usando [[SpringBoot]] 
 
 ### var 
-- Diferente de 
+- Diferente do JavaScript, 
 
 
 ---
