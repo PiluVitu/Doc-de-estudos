@@ -46,4 +46,4 @@ public IActionResult Test() {
 	return NotFound("Não encontrei meu chapaaa")
 }
 ```
-> Uma maneira de ver como isso está funcionando é usar o swagger para documentar o back-end e assim conseguir visualizar funcionando
+> Uma maneira de ver como isso está funcionando é usar o swagger para documentar o back-end e assim conseguir visualizar os path das rotas
