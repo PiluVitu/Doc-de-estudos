@@ -18,3 +18,5 @@ using Microsoft.AspNetCore.Mvc
 
 > Acredito que a formatação padrão para escrita de arquivos, funções e variáveis seja [[Pascal Case]] 
 
+### funções 
+Precisam de `public` acredito que seja porque tem tipagem forte
