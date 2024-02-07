@@ -22,10 +22,12 @@ using Microsoft.AspNetCore.Mvc
 - Precisam de `public` acredito que seja porque tem tipagem forte
 - Tem [[interfaces]](pelo menos acredito que sejam [[interfaces]]), consegui identificar pelo [[prefixo]] `I` 
 ```c#
+[HttpCreate]
 public IActionResult GetCurrentAuction() {
 	return Created()
 }
 ```
 
 >Com base no exemplo dado acima é possível ver que um [[status code]] é retornado na função com seu nome e não pelo seu código, me lembro de ter visto algo assim usando [[SpringBoot]] 
+
 
