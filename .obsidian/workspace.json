@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
+                "file": "`import`.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "a56413f22027b736",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
+                "file": "`import`.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
+                "file": "`import`.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md"
+                "file": "`import`.md"
               }
             }
           }
@@ -151,8 +150,10 @@
   },
   "active": "7c6b75ca5844b2f7",
   "lastOpenFiles": [
-    "README.md",
     "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
+    "README.md",
+    "status code.md",
+    "`import`.md",
     "Programação/Rocketseat",
     "Excalidraw/Drawing 2024-02-06 18.08.49.excalidraw.md",
     "Excalidraw",
