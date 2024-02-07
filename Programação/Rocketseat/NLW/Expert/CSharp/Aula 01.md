@@ -30,7 +30,7 @@ public IActionResult GetCurrentAuction() {
 
 >Com base no exemplo dado acima é possível ver que um [[status code]] é retornado na função com seu nome e não pelo seu código, me lembro de ter visto algo assim usando [[SpringBoot]] 
 
-# Como especificar uma rota na API ? 
+# Como especificar uma rota da API ? 
 
 - Acima da função que vai executar a lógica eu posso inserir um `[Http<metodo>]` para especificar qual será a rota com base no métodos http. 
 ## E se eu tiver mais de uma rota com o mesmo método http ? 
