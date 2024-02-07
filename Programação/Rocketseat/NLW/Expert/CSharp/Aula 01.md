@@ -31,6 +31,7 @@ public IActionResult GetCurrentAuction() {
 >Com base no exemplo dado acima é possível ver que um [[status code]] é retornado na função com seu nome e não pelo seu código, me lembro de ter visto algo assim usando [[SpringBoot]] 
 
 ### var 
+- Diferente de 
 
 
 ---
@@ -50,4 +51,6 @@ public IActionResult Test() {
 	return NotFound("Não encontrei meu chapaaa")
 }
 ```
+
 > Uma maneira de ver como isso está funcionando é usar o swagger para documentar o back-end e assim conseguir visualizar os path das rotas
+
