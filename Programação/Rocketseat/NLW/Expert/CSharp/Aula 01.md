@@ -49,8 +49,37 @@ public IActionResult GetCurrentAuction() {
 
 > Em vez de repetir o nome da classe duas vezes, uso o `var` para poder inferir a classe
 
-### entidades 
+### classes
+- Creio que tem algumas semelhanças com o que já se faz no ts.
+- Como a tipagem de retorno de um método e informar se o mesmo é public : 
+```c#
+public class GetCurrentAuctionUseCase {
+	public void Execute(){
+		//Não retorna nada
+	}
+}
+```
+ - Já havia visto sobre get e set em spring, revi quando estudava ts e a aqui parece ter sua própria maneira, achei diferente de inicio, mas achei bem coeso
+```c#
+public class Auction {
+	//Aqui definimos o nome da variável, o nivel de escopo e se a mesma pode ser usada e editada  
+	public int Id {get; set;}
+	public string Name {get; set;}
+	public DateTime Starts {get; set;}
+	public DateTime Ends {get; set;}
+}
+```
 
+> Aqui você não necessariamente precisa de uma interface ou type para tipar o retorno de um método, apenas precisa atribuir a entidade que ele representa
+
+> Quando estamos trabalhando com banco de dados é importante criar uma entidade que reflete nossa tabela no banco.
+
+- Podemos fazer heranças de classes apenas inserindo `:` e o nome da classe de onde vamos herdar
+```c#
+public class AuctionController : ControllerBase{
+
+}
+```
 
 ---
 # Como especificar uma rota da API ? 
