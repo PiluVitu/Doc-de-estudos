@@ -85,7 +85,7 @@ public class AuctionController : ControllerBase{
 ## Como especificar uma rota da API ? 
 
 - Acima da função que vai executar a lógica eu posso inserir um `[Http<metodo>]` para especificar qual será a rota com base no métodos http. 
-## E se eu tiver mais de uma rota com o mesmo método http ? 
+### E se eu tiver mais de uma rota com o mesmo método http ? 
 - Nesse caso você pode definir um nome especifico para a rota: 
 ```c#
 [HttpGet]
@@ -107,3 +107,6 @@ public IActionResult Test() {
 public string Name {get; set} = string.Empty;
 ```
 - Assim não irá dar erro caso eu tente usar algum método especifico de `string` 
+
+## Como fazer conexão da minha aplicação com meu banco de dados ?
+- Aqui no c# as bibliotecas são chamadas de NuGet Packages
