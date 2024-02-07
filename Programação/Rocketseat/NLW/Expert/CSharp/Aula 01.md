@@ -11,7 +11,7 @@
 namespace RocketseatAuction.API.Controllers
 ```
 ### using 
-- Consigo pensar o using como um [[`import`]] no Javascript, mas não sei se seria algo mais parecido com [[herança]] de classes.
+- Consigo pensar o using como um [[`import`]] no JavaScript, mas não sei se seria algo mais parecido com [[herança]] de classes.
 ```c#
 using Microsoft.AspNetCore.Mvc
 ```
