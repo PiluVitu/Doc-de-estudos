@@ -110,3 +110,5 @@ public string Name {get; set} = string.Empty;
 
 ## Como fazer conexão da minha aplicação com meu banco de dados ?
 - Aqui no c# as bibliotecas são chamadas de NuGet Packages
+- Na parte de bibliotecas procuramos pelo seguinte pacote: 
+![[Pasted image 20240207202920.png]]
