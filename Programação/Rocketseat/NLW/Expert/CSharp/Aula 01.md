@@ -31,8 +31,13 @@ public IActionResult GetCurrentAuction() {
 >Com base no exemplo dado acima é possível ver que um [[status code]] é retornado na função com seu nome e não pelo seu código, me lembro de ter visto algo assim usando [[SpringBoot]] 
 
 ### var 
-- Diferente do JavaScript, 
-
+- Diferente do JavaScript, `var` não nescessariamente sinaliza a criação de variável padrão no js.
+- Quando se coloca var antes de uma variável vc sinaliza para o c# que ele vai inferir o tipo de dado contido ali
+```c#
+var i = 10; // tipo inferido como int
+int j = 10; // tipo especificado explicitamente como int
+```
+- Quando se usar var em uma nova instância de objeto, busca-se reduzir a quantidade de código na tela, pois esse `var` infere o nome da classe 
 
 ---
 # Como especificar uma rota da API ? 
