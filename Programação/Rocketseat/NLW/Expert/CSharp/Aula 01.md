@@ -3,7 +3,7 @@
 - Criação de APIs é bem facilitada, tendo template para quase tudo no C# 
 - Achei estranho essa parte das `solutions` não aparecerem no explorador de arquivos por padrão, necessitando que criemos uma pasta no folder do projeto
 - Conclusão é que o setup de projetos é bem fácil, seja para *Iniciar* um projeto ou *criar componentes* da sua aplicação
-# Conceitos básicos de C# 
+## Conceitos básicos de C# 
 
 ### namespace 
 - É o nome da pasta do arquivo em questão, onde o nome dos arquivos são separados por `.`  a medida que se vai tendo mais pastas.
@@ -82,7 +82,7 @@ public class AuctionController : ControllerBase{
 ```
 
 ---
-# Como especificar uma rota da API ? 
+## Como especificar uma rota da API ? 
 
 - Acima da função que vai executar a lógica eu posso inserir um `[Http<metodo>]` para especificar qual será a rota com base no métodos http. 
 ## E se eu tiver mais de uma rota com o mesmo método http ? 
@@ -101,3 +101,9 @@ public IActionResult Test() {
 
 > Uma maneira de ver como isso está funcionando é usar o swagger para documentar o back-end e assim conseguir visualizar os path das rotas
 
+## Como tratar erro de string vir como null e não como "" ? 
+- Dentro da nossa entidade, onde temos campos de string, podemos definir um valor padrão para o mesmo, e esse valor padrão é `sring.Empty` ficando mais ou menos assim: 
+```c#
+public string Name {get; set} = string.Empty;
+```
+- Assim não irá dar erro caso eu tente usar algum método especifico de `string` 
