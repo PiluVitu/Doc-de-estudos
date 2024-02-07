@@ -38,6 +38,19 @@ var i = 10; // tipo inferido como int
 int j = 10; // tipo especificado explicitamente como int
 ```
 - Quando se usar var em uma nova instância de objeto, busca-se reduzir a quantidade de código na tela, pois esse `var` infere o nome da classe 
+```c#
+[HttpGet]
+public IActionResult GetCurrentAuction() {
+	var useCase = new GetCurrentAuctionUseCase()
+	
+	return Created()
+}
+```
+
+> Em vez de repetir o nome da classe duas vezes, uso o `var` para poder inferir a classe
+
+### entidades 
+
 
 ---
 # Como especificar uma rota da API ? 
