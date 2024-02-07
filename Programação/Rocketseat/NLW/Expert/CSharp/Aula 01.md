@@ -19,4 +19,13 @@ using Microsoft.AspNetCore.Mvc
 > Acredito que a formatação padrão para escrita de arquivos, funções e variáveis seja [[Pascal Case]] 
 
 ### funções 
-Precisam de `public` acredito que seja porque tem tipagem forte
+- Precisam de `public` acredito que seja porque tem tipagem forte
+- Tem [[interfaces]](pelo menos acredito que sejam [[interfaces]]), consegui identificar pelo [[prefixo]] `I` 
+```c#
+public IActionResult GetCurrentAuction() {
+	return Created()
+}
+```
+
+>Com base no exemplo dado acima é possível ver que um [[status code]] é retornado na função com seu nome e não pelo seu código, me lembro de ter visto algo assim usando [[SpringBoot]] 
+
