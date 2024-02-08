@@ -120,7 +120,11 @@ public string Name {get; set} = string.Empty;
 - Dentro da classe vamos criar um método `override OnConfiguring` onde ele já vai puxar uma função só no ponto pra editar.
 - Vamos definir o `optionsBuilder.UseSqlite()` e dentro do método do `UseSqlite`  vamos inserir uma string `Data Source= <Caminho do sqlite no sistema>`
 > Para informar ao c# que não é para considerar caracteres de scape como `/n` e afins, devo inserir um `@` antes da string no `UseSqlite()` , ficando assim: `optionsBuilder.UseSqlite(@"Data Source= <Caminho do sqlite no sistema>")`
-- Por final precisamos definir qual a entidade que vai se conectar com aquele banco de dados, dentro da classe e acima de `OnConfiguring` é so inserir um: 
+- Precisamos definir qual a entidade que vai se conectar com aquele banco de dados, dentro da classe e acima de `OnConfiguring` é so inserir um: 
 ```c#
 public DbSet<Auction>
+```
+- Por final o nome da variável tem que ser o mesmo nome da tabela no banco de dados
+```c#
+public DbSet<Auction> Auctions {get; set;}
 ```
