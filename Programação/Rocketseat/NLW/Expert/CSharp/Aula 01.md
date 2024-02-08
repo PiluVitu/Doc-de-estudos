@@ -135,3 +135,17 @@ public DbSet<Auction> Auctions {get; set;}
 public List<Item> Items {get; set;} = [];
 // No código acima estamos informando que a variavel Items é um array de Item e que seu valor padrão é um array vazio
 ```
+- O c# por padrão não inclui a tabela, se você não especificar, por isso no controller ou no endpoint onde você chamar o que tem no banco de dados depois de `Auctions` insira: 
+```c# 
+.Include(auction => auction.Items)
+```
+### Como apontar para a tabela corretamente ? 
+- No arquivo de entidade da tabela insira o seguinte código acima da classe: 
+```c#
+[Table("Items")]
+```
+
+## Como especificar para o `Swagger` qual será o retorno e status code do endpoint
+
+- Abaixo de `[HttpGet]` insira `[ProducesResponseType)(typeof(Auction), StatusCodes.Status200OK)]`
+- 
