@@ -148,4 +148,4 @@ public List<Item> Items {get; set;} = [];
 ## Como especificar para o `Swagger` qual será o retorno e status code do endpoint
 
 - Abaixo de `[HttpGet]` insira `[ProducesResponseType)(typeof(Auction), StatusCodes.Status200OK)]`
-- 
+- Caso queira adicionar mais um status code possível para o endpoint, é so adicionar a lógica no código e repetir o mesmo passo, se possuir uma body de erro, ou algo parecido é só informar 
