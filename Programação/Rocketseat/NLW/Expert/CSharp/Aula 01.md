@@ -128,3 +128,10 @@ public DbSet<Auction>
 ```c#
 public DbSet<Auction> Auctions {get; set;}
 ```
+
+## Como referenciar um chave estrangeira ? 
+- Vá na entidade na qual a tabela atual está referenciando na chave estrangeira e insira o seguinte código: 
+```c#
+public List<Item> Items {get; set;} = [];
+// No código acima estamos informando que a variavel Items é um array de Item e que seu valor padrão é um array vazio
+```
