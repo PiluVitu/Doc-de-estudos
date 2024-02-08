@@ -111,5 +111,16 @@ public string Name {get; set} = string.Empty;
 ## Como fazer conexão da minha aplicação com meu banco de dados ?
 - Aqui no c# as bibliotecas são chamadas de NuGet Packages
 - Na parte de bibliotecas procuramos pelo seguintes pacotes: 
-![[Pasted image 20240207202920.png]]
-![[Pasted image 20240207203036.png]]
+![](Pasted%20image%2020240207205812.png)
+
+![](Pasted%20image%2020240207205824.png)
+
+- Quando formos criar uma classe na pasta da nossa escolha é interessante seguirmos um padrão, que no caso é `NomeDoSeuProjetoDbContext`
+- Essa nossa classe vai herdar a classe `DbContext
+- Dentro da classe vamos criar um método `override OnConfiguring` onde ele já vai puxar uma função só no ponto pra editar.
+- Vamos definir o `optionsBuilder.UseSqlite()` e dentro do método do `UseSqlite`  vamos inserir uma string `Data Source= <Caminho do sqlite no sistema>`
+> Para informar ao c# que não é para considerar caracteres de scape como `/n` e afins, devo inserir um `@` antes da string no `UseSqlite()` , ficando assim: `optionsBuilder.UseSqlite(@"Data Source= <Caminho do sqlite no sistema>")`
+- Por final precisamos definir qual a entidade que vai se conectar com aquele banco de dados, dentro da classe e acima de `OnConfiguring` é so inserir um: 
+```c#
+public DbSet<Auction>
+```
