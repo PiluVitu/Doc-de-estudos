@@ -64,6 +64,30 @@ private string TokenOnRequest(HttpContext context){
 - Agora dentro da função `onAuthorization` usamos o método previamente feito e inserimos o `context.HttpContext` :
 ```c# 
 public void OnAuthorization(AuthorizationFilterContext context){
-	var token = TokenOnRequest(context.HttpContext)
+	var token = TokenOnRequest(context.HttpContext);
+}
+```
+- Preciso informar no código de execução do c# que é para executar primeiramente o autheticador
+- Vou criar um entidade que vai refletir a minha tabela de usuários do BD, para conseguir pegar o email e comparar com o que está no token. 
+- Para tratar o token base64 que estamos recebendo é preciso converter ele para string: 
+```c# 
+private string FromBase64String(string base64){
+	var data = Convert.FromBase64String(base64);
+	//O que vai ser retornado aqui é os bytes de string
+	var dataString = System.Text.Encoding.UTF8.GetString(data);
+	return dataString 
+}
+```
+- Agora é só comparar o email recebido no token com o que temos no banco de dados:
+```c# 
+// dentro de OnAuthorization vamos converter o token com o método criado
+	var responseEmail = FromBase64String(token);
+	
+	var emailExist = repository.Users.Any(user => user.Email.Equals(responseEmail))
+```
+- Precisamos definir um tratamento de erro caso o email n exista: 
+```c#
+if(!emailExist){ 
+	context.Result = new UnauthorizedObjectResult("E-mail not valid")
 }
 ```
