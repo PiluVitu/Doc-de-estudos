@@ -27,7 +27,43 @@ public class AuctionController : RocketseatAuctionBaseController{
 ```
 - Outra vantagem é conseguirmos compartilhar métodos que estão no controller base com todos que herdarem o mesmo. 
 
+
+## Como tratar strings de maneira facilitada no c#? 
+- No c# 8.0 foi inserido um recurso chamado `Range` que basicamente retorna uma substring com base no range especificado: 
+```c# 
+var autentication = Bearer jkasgyfuasdbnivcikasashffn
+
+var autenticationFormated = autentication["Bearer ".Lenght..]
+// Vai retornar: jkasgyfuasdbnivcikasashffn
+```
+- 
 ## Como fazer uma atenticação bem simples sem JWT(Será que dá para adaptar com jwt?)
 
 - Crio uma pasta `Filters` adiciono dentro dela uma classe com o nome que representa que tipo de filtro eu irei usar, como aqui no caso é um atenticação de usuário, demos o nome de `AuthenticationUserAttribute` 
-- Essa classe vai herdar uma classe do c# chamada `Authorization Attribute` para conseguirmos herdar métodos já instanciados, para completar devemos adicionar uma interface, para conseguirmos definir uma estrutura do que deve conter na nossa classe, o nome da interface é `IAuthorizationFilter` 
+- Essa classe vai herdar uma classe do c# chamada `Authorization Attribute` para conseguirmos herdar métodos já instanciados, para completar devemos adicionar uma interface, para conseguirmos definir uma estrutura do que deve conter na nossa classe, o nome da interface é `IAuthorizationFilter`: 
+```c# 
+public class AuthenticationUserAttribute : AuthorizationAttribute, IAuthorizationFilter{
+}
+```
+- Ao definir uma interface para nossa classe, ela precisa conter um método obrigatório que é um `OnAuthorization`: 
+```c# 
+public class AuthenticationUserAttribute : AuthorizationAttribute, IAuthorizationFilter{
+	public void OnAuthorization(){
+	}
+}
+```
+- Dentro dessa função iremos recuperar o token passado no header da rota e iremos tratar esse valor, extraindo apenas o código de auth: 
+```c# 
+// Para fazer isso criamos um método separado
+
+private string TokenOnRequest(HttpContext context){
+	var authentication = context.Request.Headers.Authorization.ToString();
+	return athentication["Bearer ".Length..]
+}
+```
+- Agora dentro da função `onAuthorization` usamos o método previamente feito e inserimos o `context.HttpContext` :
+```c# 
+public void OnAuthorization(AuthorizationFilterContext context){
+	var token = TokenOnRequest(context.HttpContext)
+}
+```
