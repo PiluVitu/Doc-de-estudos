@@ -16,10 +16,13 @@ public enum Condition {
 - Dessa maneira se no meio do projeto ou por decisão de negocio as rotas dos endpoint tiverem q mudar, podemos alterar em um caminho só: 
 ```c#
 //Controller Base
-public class RocketseatAuctionBaseCOntroller : ControllerBase {
+public class RocketseatAuctionBaseController : ControllerBase {
 }
 
-//Controller 
+//Controller do Endpoint
+public class AuctionController : RocketseatAuctionBaseController{
+[HttpGet]
 
-
+}
 ```
+- Outra vantagem é conseguirmos compartilhar métodos que estão no controller base com todos que herdarem o mesmo. 
