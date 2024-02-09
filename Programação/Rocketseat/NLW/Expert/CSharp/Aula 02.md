@@ -26,3 +26,8 @@ public class AuctionController : RocketseatAuctionBaseController{
 }
 ```
 - Outra vantagem é conseguirmos compartilhar métodos que estão no controller base com todos que herdarem o mesmo. 
+
+## Como fazer uma atenticação bem simples sem JWT(Será que dá para adaptar com jwt?)
+
+- Crio uma pasta `Filters` adiciono dentro dela uma classe com o nome que representa que tipo de filtro eu irei usar, como aqui no caso é um atenticação de usuário, demos o nome de `AuthenticationUserAttribute` 
+- Essa classe vai herdar uma classe do c# chamada `Authorization Attribute` para conseguirmos herdar métodos já instanciados, para completar devemos adicionar uma interface, para conseguirmos definir uma estrutura do que deve conter na nossa classe, o nome da interface é `IAuthorizationFilter` 
