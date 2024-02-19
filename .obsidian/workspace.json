@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/Rocketseat/NLW/Expert/CSharp/Aula 02.md",
+                "file": "Programação/Descomplica/ciencia-tecnologia-e-sociedade/6- Tecnologia e a ciências de dados.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "a56413f22027b736",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/Rocketseat/NLW/Expert/CSharp/Aula 02.md",
+                "file": "Programação/Descomplica/ciencia-tecnologia-e-sociedade/6- Tecnologia e a ciências de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programação/Rocketseat/NLW/Expert/CSharp/Aula 02.md",
+                "file": "Programação/Descomplica/ciencia-tecnologia-e-sociedade/6- Tecnologia e a ciências de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programação/Rocketseat/NLW/Expert/CSharp/Aula 02.md"
+                "file": "Programação/Descomplica/ciencia-tecnologia-e-sociedade/6- Tecnologia e a ciências de dados.md"
               }
             }
           }
@@ -151,8 +150,18 @@
   },
   "active": "7c6b75ca5844b2f7",
   "lastOpenFiles": [
-    "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
+    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/5- Princípios e características da tecnologia.md",
+    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/4- Princípios e características da ciência e pesquisa.md",
+    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/3- Princípios de gestão da inovação.md",
+    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/2- Conhecimento científico e saberes.md",
+    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/1- Princípios e características da Ciência.md",
+    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/Revisão 1.md",
+    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/7- Introdução à Sistemas de Informação e Tecnologia da Informação.md",
+    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/6- Tecnologia e a ciências de dados.md",
     "Programação/Rocketseat/NLW/Expert/CSharp/Aula 02.md",
+    "Programação/Descomplica/ciencia-tecnologia-e-sociedade",
+    "Programação/Descomplica",
+    "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
     "Pasted image 20240207205824.png",
     "Pasted image 20240207205812.png",
     "Pasted image 20240207205742.png",
