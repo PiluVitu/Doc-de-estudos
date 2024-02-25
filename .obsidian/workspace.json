@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a134062f88775b29",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +159,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c6b75ca5844b2f7",
+  "active": "a134062f88775b29",
   "lastOpenFiles": [
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/7- Introdução à Sistemas de Informação e Tecnologia da Informação.md",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/6- Tecnologia e a ciências de dados.md",
