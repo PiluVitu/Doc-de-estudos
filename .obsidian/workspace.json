@@ -24,9 +24,9 @@
             "id": "a134062f88775b29",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Pasted image 20240207205824.png"
               }
             }
           }
@@ -159,8 +159,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a134062f88775b29",
+  "active": "43a4122aac6da1f6",
   "lastOpenFiles": [
+    "Pasted image 20240207205812.png",
+    "Pasted image 20240207205742.png",
+    "Pasted image 20240207203036.png",
+    "Pasted image 20240207202920.png",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/7- Introdução à Sistemas de Informação e Tecnologia da Informação.md",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/6- Tecnologia e a ciências de dados.md",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/5- Princípios e características da tecnologia.md",
@@ -174,10 +178,6 @@
     "Programação/Descomplica",
     "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
     "Pasted image 20240207205824.png",
-    "Pasted image 20240207205812.png",
-    "Pasted image 20240207205742.png",
-    "Pasted image 20240207203036.png",
-    "Pasted image 20240207202920.png",
     "status code.md",
     "`import`.md",
     "README.md",
