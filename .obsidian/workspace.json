@@ -24,9 +24,12 @@
             "id": "a134062f88775b29",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240207205824.png"
+                "file": "Programação/Descomplica/ciencia-tecnologia-e-sociedade/2- Conhecimento científico e saberes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/Descomplica/ciencia-tecnologia-e-sociedade/Revisão 1.md",
+                "file": "Programação/Descomplica/ciencia-tecnologia-e-sociedade/2- Conhecimento científico e saberes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programação/Descomplica/ciencia-tecnologia-e-sociedade/Revisão 1.md",
+                "file": "Programação/Descomplica/ciencia-tecnologia-e-sociedade/2- Conhecimento científico e saberes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programação/Descomplica/ciencia-tecnologia-e-sociedade/Revisão 1.md"
+                "file": "Programação/Descomplica/ciencia-tecnologia-e-sociedade/2- Conhecimento científico e saberes.md"
               }
             }
           }
@@ -159,8 +162,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43a4122aac6da1f6",
+  "active": "a134062f88775b29",
   "lastOpenFiles": [
+    "staff.md",
+    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/2- Conhecimento científico e saberes.md",
+    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/Revisão 1.md",
     "Pasted image 20240207205812.png",
     "Pasted image 20240207205742.png",
     "Pasted image 20240207203036.png",
@@ -170,9 +176,7 @@
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/5- Princípios e características da tecnologia.md",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/4- Princípios e características da ciência e pesquisa.md",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/3- Princípios de gestão da inovação.md",
-    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/2- Conhecimento científico e saberes.md",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/1- Princípios e características da Ciência.md",
-    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/Revisão 1.md",
     "Programação/Rocketseat/NLW/Expert/CSharp/Aula 02.md",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade",
     "Programação/Descomplica",
