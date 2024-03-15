@@ -14,6 +14,8 @@ wsl --install
 sudo apt update && sudo apt upgrade
 ```
 
+[Instalar o WSL | Microsoft Learn](https://learn.microsoft.com/pt-br/windows/wsl/install)
+
 # ZSH 
 
 ```bash 
@@ -40,6 +42,7 @@ git clone [https://github.com/zsh-users/zsh-autosuggestions.git](https://github.
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting fast-syntax-highlighting zsh-autocomplete)
 ```
 
+[GitHub - ohmyzsh/ohmyzsh: 🙃 A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.](https://github.com/ohmyzsh/ohmyzsh?tab=readme-ov-file#using-oh-my-zsh)
 
 # Resetar TERMINAL
 
@@ -48,10 +51,6 @@ source /home/vinicius/.zshrc
 ```
 
 > Você pode fazer um alias no .zshrc e colocar esse código lá
-
-
-
-```
 # NVM 
 
 ```bash 
@@ -64,11 +63,27 @@ curl -o- [https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh](https
 nvm install --lts
 ```
 
+[GitHub - nvm-sh/nvm: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions](https://github.com/nvm-sh/nvm?tab=readme-ov-file#long-term-support)
+
 # PNPM
 
 ```bash
 curl -fsSL [https://get.pnpm.io/install.sh](https://get.pnpm.io/install.sh "https://get.pnpm.io/install.sh") | sh -
 ```
+
+## Alias Pn
+```zshrc
+alias pn=pnpm
+```
+
+## Comand Line Complete
+### Acesse o bash Sudo e digite:
+
+```bash
+pnpm install-completion zsh
+```
+
+[Motivation | pnpm](https://pnpm.io/7.x/motivation)
 
 # CLI GITHUB
 
@@ -90,3 +105,4 @@ gh auth login
 sudo apt update sudo apt install gh
 ```
 
+[Manual | GitHub CLI](https://cli.github.com/manual/)

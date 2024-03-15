@@ -37,12 +37,9 @@
             "id": "cc0690aa92c96e8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Setup Básico.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Pasted image 20240315151906.png"
               }
             }
           }
@@ -97,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 274.5
   },
   "right": {
     "id": "a56413f22027b736",
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setup Básico.md",
+                "file": "Pasted image 20240315151906.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setup Básico.md",
+                "file": "Pasted image 20240315151906.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setup Básico.md"
+                "file": "Pasted image 20240315151906.png"
               }
             }
           }
@@ -177,9 +174,9 @@
   },
   "active": "cc0690aa92c96e8f",
   "lastOpenFiles": [
+    "Setup Básico.md",
     "Pasted image 20240315151906.png",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/2- Conhecimento científico e saberes.md",
-    "Setup Básico.md",
     "staff.md",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/Revisão 1.md",
     "Pasted image 20240207205812.png",
