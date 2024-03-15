@@ -8,7 +8,6 @@ wsl --install
 
 ## Defina suas credênciais 
 
-
 ## Atualize suas dependências 
 
 ```bash 
@@ -29,12 +28,30 @@ sudo apt install zsh
 sh -c "$(curl -fsSL [https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh](https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh "https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh"))"
 ```
 
+## Plugins para o Oh My ZSH
+
+- Execute o seguinte comando no terminal
+```bash 
+git clone [https://github.com/zsh-users/zsh-autosuggestions.git](https://github.com/zsh-users/zsh-autosuggestions.git "https://github.com/zsh-users/zsh-autosuggestions.git") $ZSH_CUSTOM/plugins/zsh-autosuggestions && git clone [https://github.com/zsh-users/zsh-syntax-highlighting.git](https://github.com/zsh-users/zsh-syntax-highlighting.git "https://github.com/zsh-users/zsh-syntax-highlighting.git") $ZSH_CUSTOM/plugins/zsh-syntax-highlighting && git clone [https://github.com/zdharma-continuum/fast-syntax-highlighting.git](https://github.com/zdharma-continuum/fast-syntax-highlighting.git "https://github.com/zdharma-continuum/fast-syntax-highlighting.git") ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/fast-syntax-highlighting && git clone --depth 1 -- [https://github.com/marlonrichert/zsh-autocomplete.git](https://github.com/marlonrichert/zsh-autocomplete.git "https://github.com/marlonrichert/zsh-autocomplete.git") $ZSH_CUSTOM/plugins/zsh-autocomplete
+```
+
+- Adicione no seu .zshrc os seguintes plugins
+```zshrc
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting fast-syntax-highlighting zsh-autocomplete)
+```
+
+
 # Resetar TERMINAL
 
 ```bash
 source /home/vinicius/.zshrc
 ```
 
+> Você pode fazer um alias no .zshrc e colocar esse código lá
+
+
+
+```
 # NVM 
 
 ```bash 
