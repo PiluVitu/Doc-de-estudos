@@ -23,4 +23,19 @@
 ## Dockerfile
 - Separa dockerfile prod e dev
 - Dockerfile serve como extensão de arquivo e podemos usar nome `dev` e `prod` para separar os mesmos.  Ex: `dev.Dockerfile`
-- 
+### Comandos 
+
+- Buildar um dockerFile
+```bash
+docker buil -t <nomeDaImagem> .
+```
+> OBS: Podemos usar a flag `-f` para informar o path de um dockerfile 
+
+- Para listar as imagens que fora buildadas 
+```bash
+docker image ls
+```
+
+- Para rodar alguma imagem que temos no pc, podemos usar 
+```
+```

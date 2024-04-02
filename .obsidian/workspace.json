@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c033dce69b07b926",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +149,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c033dce69b07b926",
+  "active": "5937762ac19fe472",
   "lastOpenFiles": [
     "Programação/Rocketseat/NLW/Unite/DevOps/Aula 1.md",
     "Programação/Rocketseat/NLW/Unite/DevOps",
