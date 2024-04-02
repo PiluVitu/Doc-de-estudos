@@ -20,22 +20,35 @@
 ## Terraform 
 - Conceitos de IAC
 
-## Dockerfile
+## Docker
+### Dockerfile
 - Separa dockerfile prod e dev
 - Dockerfile serve como extensão de arquivo e podemos usar nome `dev` e `prod` para separar os mesmos.  Ex: `dev.Dockerfile`
 ### Comandos 
 
-- Buildar um dockerFile
+#### Buildar um dockerFile
 ```bash
 docker buil -t <nomeDaImagem> .
 ```
 > OBS: Podemos usar a flag `-f` para informar o path de um dockerfile 
 
-- Para listar as imagens que fora buildadas 
+#### Para listar as imagens que fora buildadas 
 ```bash
 docker image ls
 ```
 
-- Para rodar alguma imagem que temos no pc, podemos usar 
+#### Para rodar alguma imagem que temos no pc, podemos usar: 
+```bash
+docker run -p 3001:3333 -d passin:v1
 ```
+- A primeira porta é o que vai funcionar na sua maquina e a outra é a porta exposta pelo docker
+> A flag -d é para rodarmos o comando sem ele ficar travando o terminal
+
+#### Para ver quais containers estão rodando podemos usar: 
+```bash 
+docker ps
 ```
+
+
+
+
