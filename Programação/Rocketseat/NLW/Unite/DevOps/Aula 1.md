@@ -24,6 +24,8 @@
 ### Dockerfile
 - Separa dockerfile prod e dev
 - Dockerfile serve como extensão de arquivo e podemos usar nome `dev` e `prod` para separar os mesmos.  Ex: `dev.Dockerfile`
+### DockerCompose
+- Serve
 ### Comandos 
 
 #### Buildar um dockerFile
@@ -49,6 +51,13 @@ docker run -p 3001:3333 -d passin:v1
 docker ps
 ```
 
+#### Para rodar o docker compose:
+```bash
+docker-compose up -d
+```
+> Se adicionarmos um `--build` ele vai buildar novamente a imagem 
 
-
-
+#### Para derrubarmos um container: 
+```bash 
+docker stop <hash do container>
+```
