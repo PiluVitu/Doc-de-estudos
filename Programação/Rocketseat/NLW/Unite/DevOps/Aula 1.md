@@ -19,3 +19,8 @@
 - Funciona como um npm do kubernets
 ## Terraform 
 - Conceitos de IAC
+
+## Dockerfile
+- Separa dockerfile prod e dev
+- Dockerfile serve como extensão de arquivo e podemos usar nome `dev` e `prod` para separar os mesmos.  Ex: `dev.Dockerfile`
+- 
