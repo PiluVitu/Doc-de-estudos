@@ -4,3 +4,17 @@
 - Estudar sobre wait for each para continuar a subida dos containers docker 
 ##### Docker Network
 - serve para principalmente integrar serviços que devem ficar na mesma rede
+
+> OBS: Migrations não devem ser rodadas no docker compose e dockerfile
+
+#### Comandos 
+##### Parar um container 
+```bash
+docker stop <hash do container>
+```
+##### Remover um container
+```bash
+docker container rm <hash do container>
+```
+
+> OBS: hash do container é encontrado no `docker ps`
