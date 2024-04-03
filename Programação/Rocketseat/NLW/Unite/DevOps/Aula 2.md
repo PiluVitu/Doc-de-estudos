@@ -22,3 +22,13 @@ docker container rm <hash do container>
 ```
 
 > OBS: hash do container é encontrado no `docker ps`
+
+
+
+
+## CI
+### Github Actions
+
+#### Tags
+##### On
+- Dizer para o github quando vai acionar a action, seja por push, commit 
