@@ -32,3 +32,6 @@ docker container rm <hash do container>
 #### Tags
 ##### On
 - Dizer para o github quando vai acionar a action, seja por push, commit 
+
+#### Dicas
+- Quando for gerada uma imagem do docker, devemos seguir algumas boas práticas para nomear a mesma, como inserir o nome do usuário onde essa imagem vai ser deployada no docker hub, nome da aplicação e has do ultimo commit onde a imagem foi feita. Ex: `piluvitu/nlw.services.passin:22f06d2`
