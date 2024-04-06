@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/Rocketseat/NLW/Unite/DevOps/Aula 1.md",
+                "file": "Programação/Rocketseat/NLW/Unite/DevOps/Aula 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "a56413f22027b736",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/Rocketseat/NLW/Unite/DevOps/Aula 1.md",
+                "file": "Programação/Rocketseat/NLW/Unite/DevOps/Aula 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programação/Rocketseat/NLW/Unite/DevOps/Aula 1.md",
+                "file": "Programação/Rocketseat/NLW/Unite/DevOps/Aula 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programação/Rocketseat/NLW/Unite/DevOps/Aula 1.md"
+                "file": "Programação/Rocketseat/NLW/Unite/DevOps/Aula 3.md"
               }
             }
           }
@@ -150,7 +151,10 @@
   },
   "active": "5937762ac19fe472",
   "lastOpenFiles": [
+    "Pasted image 20240405224045.png",
+    "Pasted image 20240405223152.png",
     "Programação/Rocketseat/NLW/Unite/DevOps/Aula 2.md",
+    "Programação/Rocketseat/NLW/Unite/DevOps/Aula 3.md",
     "Programação/Rocketseat/NLW/Unite/DevOps/Aula 1.md",
     "Programação/Rocketseat/NLW/Unite/DevOps",
     "Programação/Rocketseat/NLW/Unite",
