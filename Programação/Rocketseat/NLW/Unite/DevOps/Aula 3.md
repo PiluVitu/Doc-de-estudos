@@ -11,3 +11,8 @@
 
 - Docker vai rodar dentro de um pod
 - Um pod pode executar vários containers   
+### Comandos 
+- Para iniciar um cluster kubernets
+```bash
+k3d cluster create nlw-unite --servers 2
+```
