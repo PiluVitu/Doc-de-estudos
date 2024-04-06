@@ -17,3 +17,4 @@
 k3d cluster create nlw-unite --servers 2
 ```
 > Acho interessante ter um docker instalado no ambiente de desenvolvimento para evitar conflitos, tipo docker desktop q integra com wsl
+
