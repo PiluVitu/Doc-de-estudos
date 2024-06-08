@@ -4,5 +4,6 @@
   "tabSize": 2,
   "attachmentFolderPath": "./assets",
   "showUnsupportedFiles": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
 }
