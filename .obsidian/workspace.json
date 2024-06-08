@@ -11,18 +11,27 @@
             "id": "7c6b75ca5844b2f7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/Primeiros passos com Docker Images.canvas",
-                "viewState": {
-                  "x": 989.0602588265394,
-                  "y": -1928.9418182145955,
-                  "zoom": -1.3333333333333328
-                }
+                "file": "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb13111c1ec2d486",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/Primeiros passos com Docker Images.canvas",
+                "file": "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/Primeiros passos com Docker Images.canvas",
+                "file": "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/Primeiros passos com Docker Images.canvas"
+                "file": "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md"
               }
             }
           }
@@ -148,30 +157,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "7c6b75ca5844b2f7",
+  "active": "bb13111c1ec2d486",
   "lastOpenFiles": [
+    "DevOps/DevOpsPro/Docker/Primeiros passos com Docker Images.canvas",
+    "DevOps/DevOpsPro/Docker/assets/Pasted image 20240608164001.png",
+    "DevOps/DevOpsPro/Docker/assets",
+    "DevOps/DevOpsPro/Docker/Pasted image 20240608163915.png",
     "Pasted image 20240607155528.png",
-    "Pasted image 20240607154425.png",
     "Pasted image 20240607154047.png",
+    "Pasted image 20240607154425.png",
     "Pasted image 20240607153326.png",
     "Pasted image 20240607092617.png",
     "Pasted image 20240607072401.png",
     "Pasted image 20240606232139.png",
     "Pasted image 20240606231815.png",
-    "Pasted image 20240606231442.png",
     "DevOps/DevOpsPro/Docker/Primeiros passos com docker.canvas",
-    "DevOps/DevOpsPro/Docker/Primeiros passos com Docker Images.canvas",
     "2024-06-05.md",
     "Excalidraw/Arquitetura octo.md",
     "Programação/Rocketseat/NLW/Unite/DevOps/Aula 4.md",
     "README.md",
     "Setup Básico.md",
     "Untitled.md",
-    "Pasted image 20240605170607.png",
-    "Pasted image 20240605165733.png",
     "Excalidraw",
     "DevOps/DevOpsPro/Docker",
     "DevOps/DevOpsPro",
@@ -197,7 +207,6 @@
     "`import`.md",
     "Programação/Rocketseat",
     "Excalidraw/Drawing 2024-02-06 18.08.49.excalidraw.md",
-    "Programação/Ajuda.md",
-    "Programação"
+    "Programação/Ajuda.md"
   ]
 }
