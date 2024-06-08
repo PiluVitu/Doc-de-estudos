@@ -1,4 +1,4 @@
-# Instale o WSL
+ Instale o WSL
 
 ```powershell
 wsl --install
