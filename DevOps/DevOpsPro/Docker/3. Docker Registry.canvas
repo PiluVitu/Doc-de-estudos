@@ -2,10 +2,12 @@
 	"nodes":[
 		{"id":"4b1348446936371d","type":"text","text":"# GitHub do docker\n- Docker registry é a nomeclatura do local onde vamos vercionar nossas imagens docker, fazendo com que o acesso e uso dela seja feito de maneira facilitada \n\n## Opções ? \n\n1. **Docker Hub**:\n    \n    - Proprietário: Docker, Inc.\n    - URL: Docker Hub\n2. **Google Container Registry (GCR)**:\n    \n    - Proprietário: Google Cloud\n    - URL: Google Container Registry\n3. **Amazon Elastic Container Registry (ECR)**:\n    \n    - Proprietário: Amazon Web Services (AWS)\n    - URL: Amazon ECR\n4. **Microsoft Container Registry (MCR)**:\n    \n    - Proprietário: Microsoft\n    - URL: Microsoft Container Registry","x":-240,"y":-300,"width":432,"height":605},
 		{"id":"da161e3479658d2f","type":"text","text":"# Nomeclatura de imagens\n\n## Repo Publicos\n\n![](DevOps/DevOpsPro/Docker/assets/Pasted%20image%2020240608180734.png)\n## Repos Privados\n\nVão mudar um pouco ","x":320,"y":-505,"width":474,"height":411},
-		{"id":"51a0c4d7d60b172c","x":320,"y":3,"width":768,"height":371,"type":"text","text":"# Renomeando Docker Images\n\n"}
+		{"id":"51a0c4d7d60b172c","type":"text","text":"# Renomeando Docker Images\n- Caso queiramos renomear imagens já criadas, podemos usar o comando *``docker tag``*\n\n```bash \ndocker tag <nome da tag antiga> <novo nome da tag>\n```\n","x":300,"y":-40,"width":768,"height":170},
+		{"id":"3691bb5970cd1e71","x":14,"y":423,"width":486,"height":194,"type":"text","text":"# Enviando image para registry \n\n```bash \ndocker login\n```\n\n```bash \ndocker push <nome da imagem>\n```"}
 	],
 	"edges":[
 		{"id":"bbbb2f7868b1c485","fromNode":"4b1348446936371d","fromSide":"right","toNode":"da161e3479658d2f","toSide":"left"},
-		{"id":"db9c51be68f1c864","fromNode":"4b1348446936371d","fromSide":"right","toNode":"51a0c4d7d60b172c","toSide":"left"}
+		{"id":"db9c51be68f1c864","fromNode":"4b1348446936371d","fromSide":"right","toNode":"51a0c4d7d60b172c","toSide":"left"},
+		{"id":"2ae0817f77f2daac","fromNode":"3691bb5970cd1e71","fromSide":"top","toNode":"4b1348446936371d","toSide":"bottom"}
 	]
 }
