@@ -11,14 +11,12 @@
             "id": "2c1de9f5f1fd0169",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/4. boas práticas nas criações de imagens.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/4. boas práticas nas criações de imagens.canvas",
+                "file": "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/4. boas práticas nas criações de imagens.canvas",
+                "file": "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/4. boas práticas nas criações de imagens.canvas"
+                "file": "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md"
               }
             }
           }
@@ -155,7 +153,8 @@
   "active": "2c1de9f5f1fd0169",
   "lastOpenFiles": [
     "DevOps/DevOpsPro/Docker/3. Docker Registry.canvas",
-    "DevOps/DevOpsPro/Docker/4. boas práticas nas criações de imagens.canvas",
+    "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md",
+    "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.canvas",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240608180734.png",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240608180708.png",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240608180631.png",
