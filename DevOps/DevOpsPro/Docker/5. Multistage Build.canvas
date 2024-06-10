@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"ccc6f2e06a62edd5","x":-167,"y":-266,"width":421,"height":483,"type":"text","text":"# O que é ? \nÉ um processo onde pegamos uma imagem base, executamos todos os nossos processos de build e instalações de dependências e pegamos apenas a parte buildada e jogamos na imagem final que iremos utilizar \n![](assets/Pasted%20image%2020240610103113.png)\n"}
+	],
+	"edges":[]
+}
