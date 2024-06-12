@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"ccc6f2e06a62edd5","x":-167,"y":-266,"width":421,"height":483,"type":"text","text":"# O que é ? \nÉ um processo onde pegamos uma imagem base, executamos todos os nossos processos de build e instalações de dependências e pegamos apenas a parte buildada e jogamos na imagem final que iremos utilizar \n![](assets/Pasted%20image%2020240610103113.png)\n"}
+		{"id":"ccc6f2e06a62edd5","type":"text","text":"# O que é ? \nÉ um processo onde pegamos uma imagem base, executamos todos os nossos processos de build e instalações de dependências e pegamos apenas a parte buildada e jogamos na imagem final que iremos utilizar \n![](assets/Pasted%20image%2020240610103113.png)\n","x":-167,"y":-266,"width":421,"height":483},
+		{"id":"cc1c3c7b50f640ab","x":420,"y":120,"width":540,"height":374,"type":"text","text":"- Como poderemos ver a seguir, definimos duas imagens para poder simplificar o tamanho da imagem final do build, otimizando a execução do container \n![](assets/Pasted%20image%2020240612172713.png)"},
+		{"id":"165efd4263774d1f","x":583,"y":606,"width":517,"height":260,"type":"text","text":"# Buildando image no estagio de build\n\n- Caso no meu dockerfile multibuild eu queira buildar uma imagem de algum estágio eu consigo passando a flag `--target=<nome do processo no dockerfile>`\n- Isso é bem util caso precisemos ver o comportamento da 1 parte do build, ou acessar o container para debuggar algo "},
+		{"id":"0cdc90d4d6d5a00d","x":1040,"y":79,"width":500,"height":271,"type":"text","text":"- Podemos usar o COPY para copiar arquivos de outras imagens docker, que estão publicadas no dockerhub \n- ![](assets/Pasted%20image%2020240612180125.png)\n- Sempre lembrar que é necessario inserir uma nome de uma imagem válida, jutamente com sua tag e o caminho de onde o arquivo se encontra"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"1e4de7d48b182e6d","fromNode":"ccc6f2e06a62edd5","fromSide":"right","toNode":"cc1c3c7b50f640ab","toSide":"left"},
+		{"id":"bde474f20297c526","fromNode":"cc1c3c7b50f640ab","fromSide":"bottom","toNode":"165efd4263774d1f","toSide":"top"},
+		{"id":"5371c6ff96dd451f","fromNode":"cc1c3c7b50f640ab","fromSide":"right","toNode":"0cdc90d4d6d5a00d","toSide":"left"}
+	]
 }
