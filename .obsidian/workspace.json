@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
+                "file": "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
                 "viewState": {
-                  "x": 1289.1234092029772,
-                  "y": -985.7048807150328,
-                  "zoom": -1.0533333333333335
+                  "x": 716.5,
+                  "y": 287,
+                  "zoom": -0.31448778530188737
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
+                "file": "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
+                "file": "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas"
+                "file": "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas"
               }
             }
           }
@@ -154,22 +154,21 @@
   },
   "active": "2c1de9f5f1fd0169",
   "lastOpenFiles": [
+    "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md",
+    "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
+    "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240612205218.png",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240612205028.png",
-    "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
-    "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240612182037.png",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240612180125.png",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240612172713.png",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240610103113.png",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240610103030.png",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240610103019.png",
-    "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md",
     "DevOps/DevOpsPro/Docker/2. Primeiros passos com Docker Images.canvas",
     "DevOps/DevOpsPro/Docker/3. Docker Registry.canvas",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240610095555.png",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240610095555 1.png",
-    "DevOps/DevOpsPro/Docker/assets/Pasted image 20240610101954.png",
     "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.canvas",
     "DevOps/DevOpsPro/Docker/3..canvas",
     "README.md",
