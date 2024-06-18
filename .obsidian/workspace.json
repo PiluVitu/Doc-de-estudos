@@ -28,11 +28,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
                 "viewState": {
-                  "x": 1753.149500880461,
-                  "y": -255.1389264004244,
-                  "zoom": 0.27364840237820204
+                  "x": 0,
+                  "y": 9,
+                  "zoom": 0
                 }
               }
             }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas"
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas"
               }
             }
           }
@@ -170,9 +170,11 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
+    "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240618160524.png",
     "DevOps/DevOpsPro/Docker/assets/Drawing 2024-06-18 16.00.55.excalidraw.md",
-    "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240618160436.png",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240618112649.png",
     "DevOps/DevOpsPro/Docker/assets/Drawing 2024-06-18 11.12.25.excalidraw.md",
@@ -187,7 +189,6 @@
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240612172713.png",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240610103113.png",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240610103030.png",
-    "DevOps/DevOpsPro/Docker/assets/Pasted image 20240610103019.png",
     "DevOps/DevOpsPro/Docker/2. Primeiros passos com Docker Images.canvas",
     "DevOps/DevOpsPro/Docker/3. Docker Registry.canvas",
     "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.canvas",
@@ -212,7 +213,6 @@
     "DevOps/DevOpsPro",
     "DevOps",
     "Programação/Rocketseat/NLW/Unite/DevOps",
-    "Programação/Rocketseat/NLW/Unite",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/Revisão 1.md",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/7- Introdução à Sistemas de Informação e Tecnologia da Informação.md",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/6- Tecnologia e a ciências de dados.md",
