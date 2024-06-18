@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"ede4759fda1d66be","x":-303,"y":-269,"width":843,"height":629,"type":"text","text":"# Representação de como funcionam os volumes em relação aos containers\n![](assets/Pasted%20image%2020240612205218.png)"},
-		{"id":"10045d629c041916","x":620,"y":-566,"width":300,"height":274,"type":"text","text":"# Tipos de Volumes\n## Bind\n\n## Volume\n\n## Tmpfs\n\n## Drives"},
-		{"id":"6d9cf163fba7fb2e","x":1060,"y":-1280,"width":999,"height":691,"type":"text","text":"# Bind (BindMount)\n- Funciona como se fosse um mapemanto de porta, só que em vez de se de porta é de um diretorio do container para um diretorio do meu sistema onde o container está instanciado "}
+		{"id":"ede4759fda1d66be","type":"text","text":"# Representação de como funcionam os volumes em relação aos containers\n![](assets/Pasted%20image%2020240612205218.png)","x":-303,"y":-269,"width":843,"height":629},
+		{"id":"10045d629c041916","type":"text","text":"# Tipos de Volumes\n## Bind\n\n## Volume\n\n## Tmpfs\n\n## Drives","x":620,"y":-566,"width":300,"height":274},
+		{"id":"6d9cf163fba7fb2e","type":"text","text":"# Bind (BindMount)\n- Funciona como se fosse um mapemanto de porta, só que em vez de se de porta é de um diretorio do container para um diretorio do meu sistema onde o container está instanciado \n### Comando \n- Para conseguirmos executar plenamente o bind mount precisamospassar algumas flags no comando de docker build\n```bash\ndocker container run -it --mount type=bind,source=\"caminho da pasta no meu pc\",target=<caminho de onde quero salvar no container> ubuntu /bin/bash \n```\n- Para simplificar esse processo trabalhoso, foi criado a flag -v onde o comando fica assim :\n```bash\ndocker container run -d -v <diretório do seu pc>:<diretorio do container>\n```\n\n### Particuliaridades\n- O gerenciamento dos arquivos não é feito pelo docker\n- É uma boa pratica criar um usuário com o mesmo user ID do usuário da máquina onde o container irá rodar \n- Precisamos tomar cuidado com qual diretório colocamos o bind mount, pois é nele que vai ficar salvo todas as informações dos nossos containers, podendo ficar livre para adicionarmos arquivos e deletarmos mesmo se não estivermos acessando do containers\n### Atenção \n- Não fazer bind com pastas no windows, a velocidade do container vai ser muito prejudicada, as vezes nem instanciando o container \n![](assets/Pasted%20image%2020240618112649.png)","x":1120,"y":-2680,"width":999,"height":1468},
+		{"id":"3b9c576f1556d17e","type":"text","text":"# Volume\n- ![](DevOps/DevOpsPro/Docker/assets/Pasted%20image%2020240618160524.png)\n- É gerenciado pelo proprio docker e fica localizado no fileystem, onde não se pode acessar tão facilmente \n### Comando \n```bash \n# Para criar volumes \ndocker volume create <nome do volume>\n\n# Para listar \ndocker volume ls\n\n# Para inspecionar \ndocker volume inspect <nome do volume>\n\n# Para deletar \ndocker volume rm -f <nome do volume>\n```\n","x":1165,"y":-994,"width":954,"height":1354}
 	],
 	"edges":[
 		{"id":"a452d42b7b12b196","fromNode":"ede4759fda1d66be","fromSide":"right","toNode":"10045d629c041916","toSide":"left"},
-		{"id":"d7ef5bce1adf33fd","fromNode":"10045d629c041916","fromSide":"right","toNode":"6d9cf163fba7fb2e","toSide":"left"}
+		{"id":"d7ef5bce1adf33fd","fromNode":"10045d629c041916","fromSide":"right","toNode":"6d9cf163fba7fb2e","toSide":"left"},
+		{"id":"ec56f16c7522d9c1","fromNode":"10045d629c041916","fromSide":"right","toNode":"3b9c576f1556d17e","toSide":"left"}
 	]
 }

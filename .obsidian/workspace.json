@@ -8,21 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c1de9f5f1fd0169",
+            "id": "1a89bfbaa2659f3d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
+                "file": "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
                 "viewState": {
-                  "x": 716.5,
-                  "y": 287,
-                  "zoom": -0.31448778530188737
+                  "x": 1495.0630281444996,
+                  "y": -837.3012679392983,
+                  "zoom": -0.3859760887962969
+                }
+              }
+            }
+          },
+          {
+            "id": "f5bd0baa68f9f221",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
+                "viewState": {
+                  "x": 1753.149500880461,
+                  "y": -255.1389264004244,
+                  "zoom": 0.27364840237820204
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
+                "file": "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
+                "file": "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas"
+                "file": "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas"
               }
             }
           }
@@ -152,11 +168,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c1de9f5f1fd0169",
+  "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
-    "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md",
-    "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
+    "DevOps/DevOpsPro/Docker/assets/Pasted image 20240618160524.png",
+    "DevOps/DevOpsPro/Docker/assets/Drawing 2024-06-18 16.00.55.excalidraw.md",
     "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
+    "DevOps/DevOpsPro/Docker/assets/Pasted image 20240618160436.png",
+    "DevOps/DevOpsPro/Docker/assets/Pasted image 20240618112649.png",
+    "DevOps/DevOpsPro/Docker/assets/Drawing 2024-06-18 11.12.25.excalidraw.md",
+    "assets/Drawing.md",
+    "assets",
+    "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
+    "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240612205218.png",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240612205028.png",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240612182037.png",
@@ -167,8 +190,6 @@
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240610103019.png",
     "DevOps/DevOpsPro/Docker/2. Primeiros passos com Docker Images.canvas",
     "DevOps/DevOpsPro/Docker/3. Docker Registry.canvas",
-    "DevOps/DevOpsPro/Docker/assets/Pasted image 20240610095555.png",
-    "DevOps/DevOpsPro/Docker/assets/Pasted image 20240610095555 1.png",
     "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.canvas",
     "DevOps/DevOpsPro/Docker/3..canvas",
     "README.md",
@@ -200,10 +221,7 @@
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/4- Princípios e características da ciência e pesquisa.md",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/2- Conhecimento científico e saberes.md",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/1- Princípios e características da Ciência.md",
-    "Programação/Descomplica/ciencia-tecnologia-e-sociedade",
     "status code.md",
-    "`import`.md",
-    "Excalidraw/Drawing 2024-02-06 18.08.49.excalidraw.md",
-    "Programação/Ajuda.md"
+    "`import`.md"
   ]
 }
