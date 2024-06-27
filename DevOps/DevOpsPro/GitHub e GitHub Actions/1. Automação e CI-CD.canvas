@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"1d0d57a18574f4a0","x":-276,"y":-242,"width":660,"height":588,"type":"text","text":""}
+		{"id":"1d0d57a18574f4a0","type":"text","text":"# CI\n- Continuous Integration \n- Pegar um codigo novo e integrar em um código já existente\n- Garantir que o código tenha qualidade \n\t- Testar o código \n\t\t- Unitarios \n\t\t- Integração\n\t- Buildar a aplicação \n\t- Processos unicos da empresa\n\t- Criação de pacotes","x":-276,"y":-242,"width":660,"height":340},
+		{"id":"2ff0a52d46c91202","type":"text","text":"# CD\n- Continuous Delivery (Deployment)\n\t- Entrega continua \n\t\t- Ainda tem processos manuais automatizados \n\t- Deploy continuo \n\t\t- Processo todo automatico \n- Fazer deploy do codigo em algum ambiente\n\t- Deploy\n\t- Stage\n\t- Dev\n- Garantir que a release tenha qualidade \n\t- Testes funcionais\n\t\t- Selenial\n\t- Teste Manual \n\t\t- QA\n-  Aprovação desse deploy de maneira fácil e rápida ","x":480,"y":-321,"width":660,"height":499}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"1997d3b68af811ac","fromNode":"1d0d57a18574f4a0","fromSide":"bottom","toNode":"2ff0a52d46c91202","toSide":"left"}
+	]
 }
