@@ -26,14 +26,12 @@
             "id": "f5bd0baa68f9f221",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
-                "viewState": {
-                  "x": 629.6099999999998,
-                  "y": 102.93000000000002,
-                  "zoom": 0
-                }
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/2. Criação do primeiro workflow.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -104,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/2. Criação do primeiro workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/2. Criação do primeiro workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas"
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/2. Criação do primeiro workflow.md"
               }
             }
           }
@@ -170,8 +168,9 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
-    "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/2. Criação do primeiro workflow.md",
+    "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240618160524.png",
     "DevOps/DevOpsPro/Docker/assets/Drawing 2024-06-18 16.00.55.excalidraw.md",
@@ -221,7 +220,6 @@
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/4- Princípios e características da ciência e pesquisa.md",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/2- Conhecimento científico e saberes.md",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/1- Princípios e características da Ciência.md",
-    "status code.md",
-    "`import`.md"
+    "status code.md"
   ]
 }
