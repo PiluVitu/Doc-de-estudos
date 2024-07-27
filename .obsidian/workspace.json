@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/2. Criação do primeiro workflow.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/3. Ambiente de execução de workflow.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/2. Criação do primeiro workflow.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/3. Ambiente de execução de workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/2. Criação do primeiro workflow.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/3. Ambiente de execução de workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/2. Criação do primeiro workflow.md"
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/3. Ambiente de execução de workflow.md"
               }
             }
           }
@@ -156,20 +156,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "publish:Publicar mudanças": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/2. Criação do primeiro workflow.md",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/3. Ambiente de execução de workflow.md",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
     "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240618160524.png",
