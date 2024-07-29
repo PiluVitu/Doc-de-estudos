@@ -34,19 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ff49a6cb6ff6db5e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +166,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff49a6cb6ff6db5e",
+  "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240726223333.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets",
