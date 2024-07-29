@@ -168,8 +168,10 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/3. Ambiente de execução de workflow.md",
+    "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md",
+    "DevOps/DevOpsPro/Docker/1. Primeiros passos com docker.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/4. Input, Output e artefatos no Workflow.md",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/3. Ambiente de execução de workflow.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240729113023.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240726223333.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets",
@@ -185,7 +187,6 @@
     "assets/Drawing.md",
     "assets",
     "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
-    "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240612205218.png",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240612205028.png",
     "DevOps/DevOpsPro/Docker/assets/Pasted image 20240612182037.png",
@@ -196,7 +197,6 @@
     "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.canvas",
     "DevOps/DevOpsPro/Docker/3..canvas",
     "README.md",
-    "DevOps/DevOpsPro/Docker/1. Primeiros passos com docker.canvas",
     "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
     "Programação/Rocketseat/NLW/Expert/CSharp/Aula 02.md",
     "Excalidraw/Arquitetura octo.md",
@@ -220,7 +220,6 @@
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/3- Princípios de gestão da inovação.md",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/5- Princípios e características da tecnologia.md",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/4- Princípios e características da ciência e pesquisa.md",
-    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/2- Conhecimento científico e saberes.md",
-    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/1- Princípios e características da Ciência.md"
+    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/2- Conhecimento científico e saberes.md"
   ]
 }
