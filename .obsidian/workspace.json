@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/4. Input, Output e artefatos no Workflow.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/5. Controle de Execução do Workflow.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/4. Input, Output e artefatos no Workflow.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/5. Controle de Execução do Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/4. Input, Output e artefatos no Workflow.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/5. Controle de Execução do Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/4. Input, Output e artefatos no Workflow.md"
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/5. Controle de Execução do Workflow.md"
               }
             }
           }
@@ -168,30 +168,31 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/4. Input, Output e artefatos no Workflow.md",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/5. Controle de Execução do Workflow.md",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240730151509.png",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240730150204.png",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240730150103.png",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240730112612.png",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240730112252.png",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240730111228.png",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240730105620.png",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240730105359.png",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240730104932.png",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240730104732.png",
     "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md",
     "DevOps/DevOpsPro/Docker/1. Primeiros passos com docker.canvas",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/4. Input, Output e artefatos no Workflow.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/3. Ambiente de execução de workflow.md",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240729113023.png",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240726223333.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/2. Criação do primeiro workflow.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
     "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions",
-    "DevOps/DevOpsPro/Docker/assets/Pasted image 20240618160524.png",
     "DevOps/DevOpsPro/Docker/assets/Drawing 2024-06-18 16.00.55.excalidraw.md",
-    "DevOps/DevOpsPro/Docker/assets/Pasted image 20240618160436.png",
-    "DevOps/DevOpsPro/Docker/assets/Pasted image 20240618112649.png",
     "DevOps/DevOpsPro/Docker/assets/Drawing 2024-06-18 11.12.25.excalidraw.md",
     "assets/Drawing.md",
     "assets",
     "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
-    "DevOps/DevOpsPro/Docker/assets/Pasted image 20240612205218.png",
-    "DevOps/DevOpsPro/Docker/assets/Pasted image 20240612205028.png",
-    "DevOps/DevOpsPro/Docker/assets/Pasted image 20240612182037.png",
-    "DevOps/DevOpsPro/Docker/assets/Pasted image 20240612180125.png",
-    "DevOps/DevOpsPro/Docker/assets/Pasted image 20240612172713.png",
     "DevOps/DevOpsPro/Docker/2. Primeiros passos com Docker Images.canvas",
     "DevOps/DevOpsPro/Docker/3. Docker Registry.canvas",
     "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.canvas",
