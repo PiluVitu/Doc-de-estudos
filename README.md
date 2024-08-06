@@ -60,4 +60,51 @@ Claro, Pilu Vitu! Vou te dar um resumo das tecnologias e habilidades mais comuns
 | Prometheus/Grafana    | Monitoramento e logging                     | Pleno/Sênior           |
 | Git                   | Controle de versão                          | Júnior                 |
 
-Espero que isso ajude a dar uma ideia clara sobre o que o mercado está procurando para posições de DevOps. Caso queira mais detalhes, posso te ajudar com sugestões sobre onde focar na sua preparação. Para mais informações, confira os [artigos da Scaler](https://www.scaler.com) e [Simplilearn](https://www.simplilearn.com).
+# Plano de Estudo DevOps
+
+## Tecnologias e Áreas de Foco
+
+### Orquestração de Contêineres
+- [ ] **Kubernetes**
+  - [ ] Fazer um curso introdutório
+  - [ ] Praticar em um cluster pessoal
+
+### Infraestrutura como Código (IaC)
+- [ ] **Terraform**
+  - [ ] Criar projetos pessoais
+  - [ ] Gerenciar infraestrutura de forma declarativa
+
+### Monitoramento e Logging
+- [ ] **Prometheus**
+  - [ ] Configurar monitoramento básico
+  - [ ] Aprender a criar alertas
+- [ ] **Grafana**
+  - [ ] Criar dashboards para visualização de métricas
+
+### CI/CD Avançado
+- [ ] **Jenkins**
+  - [ ] Configurar pipeline básico
+  - [ ] Comparar com GitHub Actions
+
+### Serviços de Nuvem Avançados
+- [ ] **AWS**
+  - [ ] Explorar S3 para armazenamento de dados
+  - [ ] Configurar RDS para gerenciamento de banco de dados
+
+### Segurança
+- [ ] **Práticas de Segurança na Nuvem**
+  - [ ] Estudar controle de acesso e políticas de segurança
+  - [ ] Implementar criptografia de dados em repouso e em trânsito
+
+### Ferramentas de Automação
+- [ ] **Ansible**
+  - [ ] Automatizar a configuração de um servidor
+  - [ ] Criar playbooks para gerenciamento de aplicações
+
+## Recursos e Documentação
+- [ ] [Kubernetes Official Documentation](https://kubernetes.io/docs/)
+- [ ] [Terraform by HashiCorp](https://www.terraform.io/)
+- [ ] [AWS Training and Certification](https://aws.amazon.com/training/)
+- [ ] [Grafana Labs Tutorials](https://grafana.com/tutorials/)
+- [ ] [Jenkins User Documentation](https://www.jenkins.io/doc/)
+- [ ] [Ansible Documentation](https://docs.ansible.com/)
