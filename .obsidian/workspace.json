@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/6. Reaproveitamento de Workflows.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
-    "collapsed": true
+    "width": 313.5
   },
   "right": {
     "id": "a56413f22027b736",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/6. Reaproveitamento de Workflows.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/6. Reaproveitamento de Workflows.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/6. Reaproveitamento de Workflows.md"
+                "file": "README.md"
               }
             }
           }
@@ -153,20 +152,19 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/6. Reaproveitamento de Workflows.md",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240806095140.png",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240806095123.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240805150058.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240805093640.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240805093339.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240802122934.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240802115104.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/5. Controle de Execução do Workflow.md",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/6. Reaproveitamento de Workflows.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/0. Duvidas.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240731195747.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240731195146.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240731194420.png",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240731191847.png",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240731144728.png",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240731105014.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/3. Ambiente de execução de workflow.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/4. Input, Output e artefatos no Workflow.md",
     "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md",
