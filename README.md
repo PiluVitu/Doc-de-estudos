@@ -10,8 +10,54 @@ Recomendo fortemente que se quiser ver meus estudos clone esse repo na sua maqui
 
 ### Carreira
 - DevOps
-### Hard Skills 
-- Docker
-- Jenkins
-- Github Actions 
-- 
+
+Claro, Pilu Vitu! Vou te dar um resumo das tecnologias e habilidades mais comuns solicitadas em vagas de DevOps que aparecem no LinkedIn, Gupy e outras plataformas, junto com os níveis de experiência geralmente requeridos.
+
+### Tecnologias e Ferramentas Comuns em Vagas de DevOps
+
+1. **Plataformas de Nuvem**:
+   - **AWS, Azure, Google Cloud**: Experiência em pelo menos uma dessas plataformas é essencial, pois a maioria das empresas usa nuvens públicas para hospedar suas aplicações e infraestrutura.
+
+2. **Automação e Infraestrutura como Código (IaC)**:
+   - **Terraform, Ansible, Puppet, Chef**: Ferramentas de automação que permitem gerenciar infraestrutura através de código.
+
+3. **Contêineres e Orquestração**:
+   - **Docker, Kubernetes**: Habilidade em criar e gerenciar contêineres é crucial, com Kubernetes sendo a plataforma padrão para orquestração de contêineres em produção.
+
+4. **Integração e Entrega Contínuas (CI/CD)**:
+   - **Jenkins, GitLab CI, Travis CI, Circle CI**: Conhecimento em ferramentas que automatizam o processo de build, teste e deploy de aplicações.
+
+5. **Monitoramento e Logging**:
+   - **Prometheus, Grafana, Splunk, ELK Stack**: Ferramentas para monitorar a saúde do sistema e gerir logs.
+
+6. **Controle de Versão**:
+   - **Git**: Domínio de sistemas de controle de versão é uma exigência básica para colaboração em código fonte.
+
+### Habilidades e Competências
+
+- **Scripting e Linguagens de Programação**: Python, Bash, Ruby são frequentemente mencionadas para tarefas de automação.
+- **Colaboração e Comunicação**: Soft skills são essenciais, pois a função de DevOps geralmente atua como um ponto de ligação entre equipes de desenvolvimento e operações.
+
+### Níveis de Experiência e Senioridade
+
+1. **Nível Júnior** (Entry-level):
+   - **0-2 anos** de experiência. Foco em funções como suporte em automação e execução de scripts básicos. Conhecimento fundamental em ferramentas DevOps e cloud.
+
+2. **Nível Pleno/Médio**:
+   - **3-5 anos** de experiência. Responsável por implementar e gerenciar pipelines CI/CD, configurar e monitorar ambientes em cloud e colaborar com equipes de desenvolvimento.
+
+3. **Nível Sênior**:
+   - **5+ anos** de experiência. Inclui funções de liderança como DevOps Architect ou DevSecOps Engineer, onde o foco é na definição de estratégias e implementação de práticas DevOps em toda a organização.
+
+### Resumo Visual
+
+| Tecnologia/Ferramenta | Descrição                                   | Nível Requerido        |
+|-----------------------|---------------------------------------------|------------------------|
+| AWS/Azure/GCP         | Plataformas de nuvem                        | Pleno/Sênior           |
+| Terraform/Ansible     | Infraestrutura como código                  | Júnior/Pleno           |
+| Docker/Kubernetes     | Contêineres e orquestração                  | Pleno/Sênior           |
+| Jenkins/GitLab CI     | Integração e entrega contínuas              | Júnior/Pleno           |
+| Prometheus/Grafana    | Monitoramento e logging                     | Pleno/Sênior           |
+| Git                   | Controle de versão                          | Júnior                 |
+
+Espero que isso ajude a dar uma ideia clara sobre o que o mercado está procurando para posições de DevOps. Caso queira mais detalhes, posso te ajudar com sugestões sobre onde focar na sua preparação. Para mais informações, confira os [artigos da Scaler](https://www.scaler.com) e [Simplilearn](https://www.simplilearn.com).
