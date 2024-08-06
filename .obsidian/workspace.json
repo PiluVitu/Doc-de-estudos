@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a89bfbaa2659f3d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
-                "viewState": {
-                  "x": 1495.0630281444996,
-                  "y": -837.3012679392983,
-                  "zoom": -0.3859760887962969
-                }
-              }
-            }
-          },
-          {
             "id": "f5bd0baa68f9f221",
             "type": "leaf",
             "state": {
@@ -35,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "right": {
     "id": "a56413f22027b736",
