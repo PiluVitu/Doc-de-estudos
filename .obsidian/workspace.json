@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/6. Reaproveitamento de Workflows.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/6. Reaproveitamento de Workflows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/6. Reaproveitamento de Workflows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/6. Reaproveitamento de Workflows.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
+    "README.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/6. Reaproveitamento de Workflows.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240806095140.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240806095123.png",
@@ -183,7 +184,6 @@
     "DevOps/DevOpsPro/Docker/3. Docker Registry.canvas",
     "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.canvas",
     "DevOps/DevOpsPro/Docker/3..canvas",
-    "README.md",
     "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
     "Programação/Rocketseat/NLW/Expert/CSharp/Aula 02.md",
     "Excalidraw/Arquitetura octo.md",
