@@ -21,6 +21,14 @@ Algumas pessoas dizem que aprender docker pode ser inutil com o kubernets, pois 
 Isso é uma meia verdade, kubernets realmente não suporta mais docker, e utiliza o containerD ou Crio para gerenciar os containers, mas essas 2 tecnologias tem algo em comum com o docker, a padronização na criação de container e imagens.
 O que nos permite usar o docker para criar as imagens e aproveitar a mesma imagem na hora de instanciar o meu kluster
 
+### Deploy 
+#### Nodes
+- Menor objeto do cluster kube é aqui onde são executados os meus containers.
+#### ReplicaSet
+- Responsavel por gerenciar os pods, garantindo a quantidade certa de pods e mantendo o bom funcionamentos dos mesmos, fazendo com que quando a imagem base para o pod seja mudada ele mate e suba novos pods de maneira cadenciada e intervalada, tendo assim 0 downtime 
+
+#### Deployment
+- Gerencia o replicaset, fazendo com que quando tenha uma nova atualização da imagem que uso no meu pod, ele cria um novo replicaset, deixando assim uma copia de segurança facilitando um futuro rollback. 
 ## Como criar um kluster kubernets
 
 ### on Premise 
@@ -38,3 +46,19 @@ minikube, kind, k3d, onde essas ferramentas criam clusters kubernets com base em
 - Docker
 - k3d
 - kubectl
+
+### Comandos
+
+#### `k3d cluster create <nome>`
+- --servers 3 (control planes)
+- --agents(worker nodes) 
+
+
+#### `k3d cluster list`
+
+#### `k3d cluster delete <nome>`
+
+
+
+#### `kubectl get nodes`
+
