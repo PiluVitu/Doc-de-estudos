@@ -4,3 +4,10 @@ Kube funciona em uma arquitetura de Klusters, onde eu tenho um conjunto de maqui
 ### Control Plane
 #### API Server
 - Ponto central de comunicação com o kubernets 
+#### ETCD 
+- Banco chave e valor que armazena as informações do meu cluster 
+#### Scheduler
+- Responsavel por definir em qual node os containers serão executados 
+#### Controller Manager
+- Gerencia os controladores que mantem o estado desejado do cluster
+### Worker Nodes
