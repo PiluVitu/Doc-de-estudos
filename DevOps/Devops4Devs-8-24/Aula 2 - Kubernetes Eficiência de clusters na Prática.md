@@ -37,4 +37,4 @@ minikube, kind, k3d, onde essas ferramentas criam clusters kubernets com base em
 ### Requisitos 
 - Docker
 - k3d
-
+- kubectl
