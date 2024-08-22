@@ -26,7 +26,6 @@ O que nos permite usar o docker para criar as imagens e aproveitar a mesma image
 - Menor objeto do cluster kube é aqui onde são executados os meus containers.
 #### ReplicaSet
 - Responsavel por gerenciar os pods, garantindo a quantidade certa de pods e mantendo o bom funcionamentos dos mesmos, fazendo com que quando a imagem base para o pod seja mudada ele mate e suba novos pods de maneira cadenciada e intervalada, tendo assim 0 downtime 
-
 #### Deployment
 - Gerencia o replicaset, fazendo com que quando tenha uma nova atualização da imagem que uso no meu pod, ele cria um novo replicaset, deixando assim uma copia de segurança facilitando um futuro rollback. 
 ## Como criar um kluster kubernets
