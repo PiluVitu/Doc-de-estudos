@@ -22,3 +22,19 @@ Isso é uma meia verdade, kubernets realmente não suporta mais docker, e utiliz
 O que nos permite usar o docker para criar as imagens e aproveitar a mesma imagem na hora de instanciar o meu kluster
 
 ## Como criar um kluster kubernets
+
+### on Premise 
+Vc gerencia o ambiente, tem mais controle, mas aumenta a complexidade 
+
+### Kurbenetes as a services
+Serviço gerenciado pelos clouds providers
+
+### Ambiente local
+minikube, kind, k3d, onde essas ferramentas criam clusters kubernets com base em containers docker  
+
+## Criando cluster com k3d 
+
+### Requisitos 
+- Docker
+- k3d
+
