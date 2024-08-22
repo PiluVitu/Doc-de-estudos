@@ -57,7 +57,5 @@ minikube, kind, k3d, onde essas ferramentas criam clusters kubernets com base em
 
 #### `k3d cluster delete <nome>`
 
-
-
 #### `kubectl get nodes`
 
