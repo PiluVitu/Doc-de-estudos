@@ -11,3 +11,14 @@ Kube funciona em uma arquitetura de Klusters, onde eu tenho um conjunto de maqui
 #### Controller Manager
 - Gerencia os controladores que mantem o estado desejado do cluster
 ### Worker Nodes
+#### Kublet 
+- Ele quem garante a execução dos containers se comunicando com o container runtime 
+#### KubeProxy
+- Gerencia a comunicação de rede no cluster  
+
+### OBS:
+Algumas pessoas dizem que aprender docker pode ser inutil com o kubernets, pois ele não suporta mais a execução de containers com o docker. 
+Isso é uma meia verdade, kubernets realmente não suporta mais docker, e utiliza o containerD ou Crio para gerenciar os containers, mas essas 2 tecnologias tem algo em comum com o docker, a padronização na criação de container e imagens.
+O que nos permite usar o docker para criar as imagens e aproveitar a mesma imagem na hora de instanciar o meu kluster
+
+## Como criar um kluster kubernets
