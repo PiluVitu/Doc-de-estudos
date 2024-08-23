@@ -28,6 +28,18 @@ O que nos permite usar o docker para criar as imagens e aproveitar a mesma image
 - Responsavel por gerenciar os pods, garantindo a quantidade certa de pods e mantendo o bom funcionamentos dos mesmos, fazendo com que quando a imagem base para o pod seja mudada ele mate e suba novos pods de maneira cadenciada e intervalada, tendo assim 0 downtime 
 #### Deployment
 - Gerencia o replicaset, fazendo com que quando tenha uma nova atualização da imagem que uso no meu pod, ele cria um novo replicaset, deixando assim uma copia de segurança facilitando um futuro rollback. 
+
+### Service 
+- É por onde acessamos a aplicação ou recurso que está rodando dentro de um pod
+#### Cluster IP
+- Bom para comunicar entre microservicos 
+
+#### Service Port
+- Bom para ambientes on premisse
+
+#### Load Balancer
+- Bom para ambientes kube as service
+
 ## Como criar um kluster kubernets
 
 ### on Premise 
@@ -66,4 +78,15 @@ minikube, kind, k3d, onde essas ferramentas criam clusters kubernets com base em
 #### `kubectl get deployment`
 
 #### `kubectl get replicaset`
+- Ready no log se refere a quantidade de pods gerenciados pelo replicaset
 
+#### `kubectl get pod`
+- Ready no log se refere a quantidade de containers dentro do pod
+
+#### `kubectl get all`
+
+#### `kubectl describe <objeto> <nome do objeto>`
+
+#### `kubectl port-forward <nome do pod> <porta da minha maquina>:<porta do pod>`
+
+#### `kubectl delete pod <nome do pod>`
