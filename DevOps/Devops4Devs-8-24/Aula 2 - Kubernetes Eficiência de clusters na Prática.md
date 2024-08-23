@@ -64,3 +64,6 @@ minikube, kind, k3d, onde essas ferramentas criam clusters kubernets com base em
 #### `kubectl apply`
 - Serve para aplicar as configurações definidas no arquivo manifesto, passamos a flag `-f` para poder especificar onde o arquivo se encontra.
 #### `kubectl get deployment`
+
+#### `kubectl get replicaset`
+
