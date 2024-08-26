@@ -15,3 +15,9 @@
 
 ### `terraform plan`
 - Ele le o aqrquivo terraform e vê se o mesmo é compativel, e da um planejamento de quais e o que os serviços terão.
+
+### Terraform state
+- Estado atual da sua aplicação no provider 
+- Não é uma boa prática armazenar eles em um postgress ou nos cloud providers
+- **POR DEUS NÃO PERCA ESSE ARQUIVO**
+- 
