@@ -7,4 +7,8 @@
 ![](assets/Pasted%20image%2020240825220748.png)
 ## OBS: 
 - Uma boa pratica é usar as configurações do terraform em outro repo, já que ele é algo voltado para a infraestrutura em geral. 
-- 
+- O ideal é que os secrest fiquem em outro lugar e nao no repo, podemos usar os vaults dos proprios providers se pah.
+
+## Como executar 
+- Entramos dentro de onde o arquivo terraform está  
+- Rodamos um `terraform init` 
