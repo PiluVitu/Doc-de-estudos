@@ -12,3 +12,6 @@
 ## Como executar 
 - Entramos dentro de onde o arquivo terraform está  
 - Rodamos um `terraform init` 
+
+### `terraform plan`
+- Ele le o aqrquivo terraform e vê se o mesmo é compativel, e da um planejamento de quais e o que os serviços terão.
