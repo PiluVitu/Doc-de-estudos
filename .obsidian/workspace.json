@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Devops4Devs-8-24/Aula 2 - Kubernetes Eficiência de clusters na Prática.md",
+                "file": "DevOps/Devops4Devs-8-24/Aula 4 - Terraform Seu ambiente cloud com apenas 1 comando.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Devops4Devs-8-24/Aula 2 - Kubernetes Eficiência de clusters na Prática.md",
+                "file": "DevOps/Devops4Devs-8-24/Aula 4 - Terraform Seu ambiente cloud com apenas 1 comando.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Devops4Devs-8-24/Aula 2 - Kubernetes Eficiência de clusters na Prática.md",
+                "file": "DevOps/Devops4Devs-8-24/Aula 4 - Terraform Seu ambiente cloud com apenas 1 comando.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Devops4Devs-8-24/Aula 2 - Kubernetes Eficiência de clusters na Prática.md"
+                "file": "DevOps/Devops4Devs-8-24/Aula 4 - Terraform Seu ambiente cloud com apenas 1 comando.md"
               }
             }
           }
@@ -152,9 +152,16 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
+    "DevOps/Devops4Devs-8-24/assets/Pasted image 20240825220748.png",
+    "DevOps/Devops4Devs-8-24/assets/Pasted image 20240825220744.png",
+    "DevOps/Devops4Devs-8-24/assets/Pasted image 20240825220716.png",
+    "DevOps/Devops4Devs-8-24/assets/Pasted image 20240825220705.png",
+    "DevOps/Devops4Devs-8-24/assets/Pasted image 20240825220657.png",
+    "DevOps/Devops4Devs-8-24/assets/Pasted image 20240825220635.png",
+    "DevOps/Devops4Devs-8-24/Aula 2 - Kubernetes Eficiência de clusters na Prática.md",
+    "DevOps/Devops4Devs-8-24/Aula 4 - Terraform Seu ambiente cloud com apenas 1 comando.md",
     "DevOps/Devops4Devs-8-24/assets/Pasted image 20240822113413.png",
     "DevOps/Devops4Devs-8-24/Aula 1 - Desenvolvimento Inteligente com Docker.md",
-    "DevOps/Devops4Devs-8-24/Aula 2 - Kubernetes Eficiência de clusters na Prática.md",
     "DevOps/Devops4Devs-8-24/assets/Pasted image 20240822104919.png",
     "DevOps/Devops4Devs-8-24/assets/Pasted image 20240822102537.png",
     "DevOps/Devops4Devs-8-24/assets",
@@ -166,12 +173,6 @@
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240813125509.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240813125407.png",
     "README.md",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240806095140.png",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240806095123.png",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240805150058.png",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240805093640.png",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240805093339.png",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240802122934.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/0. Duvidas.md",
     "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md",
     "DevOps/DevOpsPro/Docker/1. Primeiros passos com docker.canvas",
@@ -204,7 +205,6 @@
     "Untitled.md",
     "Excalidraw",
     "DevOps/DevOpsPro/Docker",
-    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/Revisão 1.md",
-    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/7- Introdução à Sistemas de Informação e Tecnologia da Informação.md"
+    "Programação/Descomplica/ciencia-tecnologia-e-sociedade/Revisão 1.md"
   ]
 }
