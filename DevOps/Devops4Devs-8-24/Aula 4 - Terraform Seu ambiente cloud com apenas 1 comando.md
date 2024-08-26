@@ -20,4 +20,10 @@
 - Estado atual da sua aplicação no provider 
 - Não é uma boa prática armazenar eles em um postgress ou nos cloud providers
 - **POR DEUS NÃO PERCA ESSE ARQUIVO**
-- 
+
+### Variables
+![](assets/Pasted%20image%2020240825232623.png)
+- Devemos criar um arquivo terraform.tfvars que serve como um env.file 
+
+### `terraform destroy`
+- Dessa forma eu deleto todo serviço que tenho declarado no meu arquivo tf
