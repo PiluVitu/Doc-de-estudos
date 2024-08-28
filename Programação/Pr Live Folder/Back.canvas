@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"381508c9e85fbd9a","x":-125,"y":-320,"width":505,"height":153,"type":"text","text":"## Github \n\n- Você é marcado para revisar um pr ou é pedido re review no pr \n- Github envia essa notificação"},
+		{"id":"d1832909a65d9884","x":-182,"y":-41,"width":602,"height":481,"type":"text","text":"## API \n- Api se conecta com sua conta do github e fica ouvindo esse evento de notificação, quando ele for disparado as notificações vão ser separadas em 3 possibilidades: \n- Novo pr \n\t- Prs que são solicitado revisão e não estiverem no bd, irão ser adicionadas aqui.\n- Re-Review\n\t- Se o evento de pr vier de um pr que já tiver no banco de dados ele muda o status para re-review\n- Marged\n\t- Prs no marged serão excluidos com o passar de 2 dias\n- Quando algum pr tiver alteração deve mandar "}
+	],
+	"edges":[
+		{"id":"b8cba9d5a878e117","fromNode":"381508c9e85fbd9a","fromSide":"bottom","toNode":"d1832909a65d9884","toSide":"top"}
+	]
+}

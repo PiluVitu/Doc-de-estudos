@@ -11,12 +11,14 @@
             "id": "f5bd0baa68f9f221",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DevOps/Devops4Devs-8-24/Aula 4 - Terraform Seu ambiente cloud com apenas 1 comando.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Programação/Pr Live Folder/Back.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Devops4Devs-8-24/Aula 4 - Terraform Seu ambiente cloud com apenas 1 comando.md",
+                "file": "Programação/Pr Live Folder/Back.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Devops4Devs-8-24/Aula 4 - Terraform Seu ambiente cloud com apenas 1 comando.md",
+                "file": "Programação/Pr Live Folder/Back.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Devops4Devs-8-24/Aula 4 - Terraform Seu ambiente cloud com apenas 1 comando.md"
+                "file": "Programação/Pr Live Folder/Back.canvas"
               }
             }
           }
@@ -152,6 +154,11 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
+    "Programação/Pr Live Folder/Front.canvas",
+    "Programação/Pr Live Folder/Back.canvas",
+    "DevOps/Devops4Devs-8-24/Aula 4 - Terraform Seu ambiente cloud com apenas 1 comando.md",
+    "Programação/Pr Live Folder/Untitled",
+    "Programação/Pr Live Folder",
     "DevOps/Devops4Devs-8-24/assets/Pasted image 20240825232623.png",
     "DevOps/Devops4Devs-8-24/assets/Pasted image 20240825220748.png",
     "DevOps/Devops4Devs-8-24/assets/Pasted image 20240825220744.png",
@@ -160,7 +167,6 @@
     "DevOps/Devops4Devs-8-24/assets/Pasted image 20240825220657.png",
     "DevOps/Devops4Devs-8-24/assets/Pasted image 20240825220635.png",
     "DevOps/Devops4Devs-8-24/Aula 2 - Kubernetes Eficiência de clusters na Prática.md",
-    "DevOps/Devops4Devs-8-24/Aula 4 - Terraform Seu ambiente cloud com apenas 1 comando.md",
     "DevOps/Devops4Devs-8-24/assets/Pasted image 20240822113413.png",
     "DevOps/Devops4Devs-8-24/Aula 1 - Desenvolvimento Inteligente com Docker.md",
     "DevOps/Devops4Devs-8-24/assets/Pasted image 20240822104919.png",
@@ -171,7 +177,6 @@
     "DevOps/DevOpsPro/GitHub e GitHub Actions/5. Controle de Execução do Workflow.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/4. Input, Output e artefatos no Workflow.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/6. Reaproveitamento de Workflows.md",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240813125509.png",
     "README.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/0. Duvidas.md",
     "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md",
@@ -203,8 +208,6 @@
     "2024-06-05.md",
     "Programação/Rocketseat/NLW/Unite/DevOps/Aula 4.md",
     "Untitled.md",
-    "Excalidraw",
-    "DevOps/DevOpsPro/Docker",
     "Programação/Descomplica/ciencia-tecnologia-e-sociedade/Revisão 1.md"
   ]
 }
