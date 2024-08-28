@@ -11,14 +11,12 @@
             "id": "f5bd0baa68f9f221",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Programação/Pr Live Folder/Back.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 781.2000000000002,
-                  "zoom": 0
-                }
+                "file": "DevOps/Devops4Devs-8-24/Aula 1 - Desenvolvimento Inteligente com Docker.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/Pr Live Folder/Back.canvas",
+                "file": "DevOps/Devops4Devs-8-24/Aula 1 - Desenvolvimento Inteligente com Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programação/Pr Live Folder/Back.canvas",
+                "file": "DevOps/Devops4Devs-8-24/Aula 1 - Desenvolvimento Inteligente com Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programação/Pr Live Folder/Back.canvas"
+                "file": "DevOps/Devops4Devs-8-24/Aula 1 - Desenvolvimento Inteligente com Docker.md"
               }
             }
           }
@@ -154,8 +152,13 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
-    "Programação/Pr Live Folder/Front.canvas",
+    "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
+    "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
+    "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md",
+    "DevOps/DevOpsPro/Docker/2. Primeiros passos com Docker Images.canvas",
+    "DevOps/DevOpsPro/Docker/1. Primeiros passos com docker.canvas",
     "Programação/Pr Live Folder/Back.canvas",
+    "Programação/Pr Live Folder/Front.canvas",
     "DevOps/Devops4Devs-8-24/Aula 4 - Terraform Seu ambiente cloud com apenas 1 comando.md",
     "Programação/Pr Live Folder/Untitled",
     "Programação/Pr Live Folder",
@@ -179,19 +182,14 @@
     "DevOps/DevOpsPro/GitHub e GitHub Actions/6. Reaproveitamento de Workflows.md",
     "README.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/0. Duvidas.md",
-    "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md",
-    "DevOps/DevOpsPro/Docker/1. Primeiros passos com docker.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/2. Criação do primeiro workflow.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
-    "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions",
     "DevOps/DevOpsPro/Docker/assets/Drawing 2024-06-18 16.00.55.excalidraw.md",
     "DevOps/DevOpsPro/Docker/assets/Drawing 2024-06-18 11.12.25.excalidraw.md",
     "assets/Drawing.md",
     "assets",
-    "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
-    "DevOps/DevOpsPro/Docker/2. Primeiros passos com Docker Images.canvas",
     "DevOps/DevOpsPro/Docker/3. Docker Registry.canvas",
     "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.canvas",
     "DevOps/DevOpsPro/Docker/3..canvas",
