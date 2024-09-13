@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Devops4Devs-8-24/Aula 1 - Desenvolvimento Inteligente com Docker.md",
+                "file": "DevOps/DevOpsPro/Terraform/1. Introdução.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Devops4Devs-8-24/Aula 1 - Desenvolvimento Inteligente com Docker.md",
+                "file": "DevOps/DevOpsPro/Terraform/1. Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Devops4Devs-8-24/Aula 1 - Desenvolvimento Inteligente com Docker.md",
+                "file": "DevOps/DevOpsPro/Terraform/1. Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Devops4Devs-8-24/Aula 1 - Desenvolvimento Inteligente com Docker.md"
+                "file": "DevOps/DevOpsPro/Terraform/1. Introdução.md"
               }
             }
           }
@@ -152,6 +152,9 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
+    "DevOps/Devops4Devs-8-24/Aula 1 - Desenvolvimento Inteligente com Docker.md",
+    "DevOps/DevOpsPro/Terraform/1. Introdução.md",
+    "DevOps/DevOpsPro/Terraform",
     "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
     "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
     "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.md",
@@ -171,7 +174,6 @@
     "DevOps/Devops4Devs-8-24/assets/Pasted image 20240825220635.png",
     "DevOps/Devops4Devs-8-24/Aula 2 - Kubernetes Eficiência de clusters na Prática.md",
     "DevOps/Devops4Devs-8-24/assets/Pasted image 20240822113413.png",
-    "DevOps/Devops4Devs-8-24/Aula 1 - Desenvolvimento Inteligente com Docker.md",
     "DevOps/Devops4Devs-8-24/assets/Pasted image 20240822104919.png",
     "DevOps/Devops4Devs-8-24/assets/Pasted image 20240822102537.png",
     "DevOps/Devops4Devs-8-24/assets",
@@ -202,7 +204,6 @@
     "Programação/Rocketseat/NLW/Unite/DevOps/Aula 2.md",
     "Programação/Rocketseat/NLW/Unite/DevOps/Aula 1.md",
     "Programação/Rocketseat/NLW/Expert/CSharp/assets",
-    "DevOps/DevOpsPro/Docker/assets",
     "2024-06-05.md",
     "Programação/Rocketseat/NLW/Unite/DevOps/Aula 4.md",
     "Untitled.md",
