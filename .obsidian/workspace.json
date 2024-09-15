@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/Terraform/0. Duvidas e Dicas.md",
+                "file": "DevOps/DevOpsPro/Terraform/1. Introdução.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/Terraform/0. Duvidas e Dicas.md",
+                "file": "DevOps/DevOpsPro/Terraform/1. Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/Terraform/0. Duvidas e Dicas.md",
+                "file": "DevOps/DevOpsPro/Terraform/1. Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/Terraform/0. Duvidas e Dicas.md"
+                "file": "DevOps/DevOpsPro/Terraform/1. Introdução.md"
               }
             }
           }
@@ -152,8 +152,8 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
-    "DevOps/DevOpsPro/Terraform/1. Introdução.md",
     "DevOps/DevOpsPro/Terraform/0. Duvidas e Dicas.md",
+    "DevOps/DevOpsPro/Terraform/1. Introdução.md",
     "DevOps/DevOpsPro/Terraform/assets/Pasted image 20240913175659.png",
     "DevOps/DevOpsPro/Terraform/assets/Pasted image 20240913175602.png",
     "DevOps/DevOpsPro/Terraform/assets/Pasted image 20240913175430.png",
