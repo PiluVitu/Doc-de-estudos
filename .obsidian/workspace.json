@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/Terraform/1. Introdução.md",
+                "file": "DevOps/DevOpsPro/Terraform/0. Duvidas e Dicas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/Terraform/1. Introdução.md",
+                "file": "DevOps/DevOpsPro/Terraform/0. Duvidas e Dicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/Terraform/1. Introdução.md",
+                "file": "DevOps/DevOpsPro/Terraform/0. Duvidas e Dicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/Terraform/1. Introdução.md"
+                "file": "DevOps/DevOpsPro/Terraform/0. Duvidas e Dicas.md"
               }
             }
           }
@@ -152,6 +152,8 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
+    "DevOps/DevOpsPro/Terraform/1. Introdução.md",
+    "DevOps/DevOpsPro/Terraform/0. Duvidas e Dicas.md",
     "DevOps/DevOpsPro/Terraform/assets/Pasted image 20240913175659.png",
     "DevOps/DevOpsPro/Terraform/assets/Pasted image 20240913175602.png",
     "DevOps/DevOpsPro/Terraform/assets/Pasted image 20240913175430.png",
@@ -159,7 +161,6 @@
     "DevOps/DevOpsPro/Terraform/assets/Pasted image 20240913144959.png",
     "DevOps/DevOpsPro/Terraform/assets",
     "DevOps/Devops4Devs-8-24/Aula 1 - Desenvolvimento Inteligente com Docker.md",
-    "DevOps/DevOpsPro/Terraform/1. Introdução.md",
     "DevOps/DevOpsPro/Terraform",
     "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
     "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
@@ -176,7 +177,6 @@
     "DevOps/Devops4Devs-8-24/assets/Pasted image 20240825220744.png",
     "DevOps/Devops4Devs-8-24/assets/Pasted image 20240825220716.png",
     "DevOps/Devops4Devs-8-24/assets/Pasted image 20240825220705.png",
-    "DevOps/Devops4Devs-8-24/assets/Pasted image 20240825220657.png",
     "DevOps/Devops4Devs-8-24/Aula 2 - Kubernetes Eficiência de clusters na Prática.md",
     "DevOps/Devops4Devs-8-24/assets",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/3. Ambiente de execução de workflow.md",
