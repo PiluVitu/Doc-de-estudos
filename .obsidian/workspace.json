@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/0. Duvidas.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/9. Debug e Logs no GitHub Actions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/0. Duvidas.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/9. Debug e Logs no GitHub Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/0. Duvidas.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/9. Debug e Logs no GitHub Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/0. Duvidas.md"
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/9. Debug e Logs no GitHub Actions.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/0. Duvidas.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/9. Debug e Logs no GitHub Actions.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240919164420.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240919164302.png",
@@ -188,7 +189,6 @@
     "DevOps/DevOpsPro/GitHub e GitHub Actions/4. Input, Output e artefatos no Workflow.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/6. Reaproveitamento de Workflows.md",
     "README.md",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/0. Duvidas.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/2. Criação do primeiro workflow.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
