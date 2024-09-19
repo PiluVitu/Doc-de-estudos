@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/9. Debug e Logs no GitHub Actions.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/0. Duvidas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/9. Debug e Logs no GitHub Actions.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/0. Duvidas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/9. Debug e Logs no GitHub Actions.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/0. Duvidas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/9. Debug e Logs no GitHub Actions.md"
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/0. Duvidas.md"
               }
             }
           }
@@ -152,10 +152,10 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/9. Debug e Logs no GitHub Actions.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240919164420.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240919164302.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/8. Deploy em Múltiplos Ambientes.md",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/9. Debug e Logs no GitHub Actions.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/7. Gerenciamento de ambientes.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240916164945.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240916162735.png",
@@ -167,7 +167,6 @@
     "DevOps/DevOpsPro/Terraform/assets/Pasted image 20240913175602.png",
     "DevOps/DevOpsPro/Terraform/assets/Pasted image 20240913175430.png",
     "DevOps/DevOpsPro/Terraform/assets/Pasted image 20240913175423.png",
-    "DevOps/DevOpsPro/Terraform/assets/Pasted image 20240913144959.png",
     "DevOps/DevOpsPro/Terraform/assets",
     "DevOps/Devops4Devs-8-24/Aula 1 - Desenvolvimento Inteligente com Docker.md",
     "DevOps/DevOpsPro/Terraform",
