@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/8. Deploy em Múltiplos Ambientes.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/8. Deploy em Múltiplos Ambientes.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/8. Deploy em Múltiplos Ambientes.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/8. Deploy em Múltiplos Ambientes.md"
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/Untitled.md"
               }
             }
           }
@@ -152,8 +152,9 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/7. Gerenciamento de ambientes.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/8. Deploy em Múltiplos Ambientes.md",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/Untitled.md",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/7. Gerenciamento de ambientes.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240916164945.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240916162735.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240916123511.png",
@@ -206,7 +207,6 @@
     "Programação/Rocketseat/NLW/Unite/DevOps/Aula 3.md",
     "Programação/Rocketseat/NLW/Unite/DevOps/assets",
     "Programação/Rocketseat/NLW/Unite/DevOps/Aula 2.md",
-    "Programação/Rocketseat/NLW/Unite/DevOps/Aula 1.md",
-    "2024-06-05.md"
+    "Programação/Rocketseat/NLW/Unite/DevOps/Aula 1.md"
   ]
 }
