@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/12. Self Hosted Runners.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/Criando suas próprias Actions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/12. Self Hosted Runners.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/Criando suas próprias Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/12. Self Hosted Runners.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/Criando suas próprias Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/12. Self Hosted Runners.md"
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/Criando suas próprias Actions.md"
               }
             }
           }
@@ -152,8 +152,10 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/11. GitHub Actions e Containers.md",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240921114139.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/12. Self Hosted Runners.md",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/Criando suas próprias Actions.md",
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/11. GitHub Actions e Containers.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240920204450.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240920203227.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240920202546.png",
@@ -205,8 +207,6 @@
     "DevOps/DevOpsPro/Docker/3..canvas",
     "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
     "Programação/Rocketseat/NLW/Expert/CSharp/Aula 02.md",
-    "Excalidraw/Arquitetura octo.md",
-    "Setup Básico.md",
     "Programação/Rocketseat/NLW/Unite/DevOps/assets"
   ]
 }
