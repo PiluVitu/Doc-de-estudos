@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"a9bd01dfb4f5e95e","x":-200,"y":-320,"width":626,"height":564,"type":"text","text":"# Network\n\nÉ uma forma de interligarmos containers em uma só rede para conseguirmos acessar varios serviços em uma mesma rede, pois a natureza padrão de um container é isolamento total \n\n## Componentes\n\n### Container network model\n- Definição de como trabalhar com redes no docker\n### Lib network \n- Implementação desse modelo"}
+	],
+	"edges":[]
+}
