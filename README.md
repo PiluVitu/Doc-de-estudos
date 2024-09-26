@@ -108,3 +108,8 @@ Claro, Pilu Vitu! Vou te dar um resumo das tecnologias e habilidades mais comuns
 - [ ] [Grafana Labs Tutorials](https://grafana.com/tutorials/)
 - [ ] [Jenkins User Documentation](https://www.jenkins.io/doc/)
 - [ ] [Ansible Documentation](https://docs.ansible.com/)
+
+#### REferencias para teclado
+
+[Tupinikeebs | Build 26 de Julho Board: Lily58 PRO Wireless Switches: Akko Cream Yellow (50gf, linear) Keycaps: XDA Case: Mármore Pessoal, vi que... | Instagram](https://www.instagram.com/p/C95VV14uIKG/?img_index=1)
+

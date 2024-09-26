@@ -11,14 +11,12 @@
             "id": "f5bd0baa68f9f221",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/7. Network.canvas",
-                "viewState": {
-                  "x": 173.59676758747858,
-                  "y": -24.29955882985726,
-                  "zoom": 0.3999999999999999
-                }
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/7. Network.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/7. Network.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/7. Network.canvas"
+                "file": "README.md"
               }
             }
           }
@@ -154,8 +152,8 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
-    "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
     "DevOps/DevOpsPro/Docker/7. Network.canvas",
+    "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/Criando suas próprias Actions.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240921114139.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/12. Self Hosted Runners.md",
