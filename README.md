@@ -113,3 +113,5 @@ Claro, Pilu Vitu! Vou te dar um resumo das tecnologias e habilidades mais comuns
 
 [Tupinikeebs | Build 26 de Julho Board: Lily58 PRO Wireless Switches: Akko Cream Yellow (50gf, linear) Keycaps: XDA Case: Mármore Pessoal, vi que... | Instagram](https://www.instagram.com/p/C95VV14uIKG/?img_index=1)
 
+[Tupinikeebs | Build da semana: Board: Lotus 58 (wireless) Switches: Akko Cream yellow (50gf, Linear) Keycaps: SA | Instagram](https://www.instagram.com/p/C6yodArATRP/?img_index=2)
+
