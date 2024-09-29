@@ -1,16 +1,16 @@
 {
 	"nodes":[
-		{"id":"a9bd01dfb4f5e95e","type":"text","text":"# Network\n\nÉ uma forma de interligarmos containers em uma só rede para conseguirmos acessar varios serviços em uma mesma rede, pois a natureza padrão de um container é isolamento total \n\n## Componentes\n\n### Container network model\n- Definição de como trabalhar com redes no docker\n### Lib network \n[GitHub - moby/libnetwork: networking for containers](https://github.com/moby/libnetwork)\n https://github.com/moby/libnetwork/blob/master/docs/design.md\n- Implementação desse modelo\n\n## Tipos de Network\n\n### Bridge\nConexão padrão, usada para conectar varios containers na mesma rede. \n\n### None\nOnde o container não tem nenhuma conexão de rede\n\n### Host\nConecto o meu container ao mesmo dispositivo de rede do meu computador, é possivel acessar ele da minha rede \n\n### MacVLAN\nConectamos o container a uma rede fisica \n\n### Overlay \nUtilizado muitas vezes para conectar varias maquinas onde o container D está rodando, muito usado tambem quando estamos falando de docker swarm","x":-200,"y":-320,"width":626,"height":1176},
-		{"id":"d4f9b2a4c0848dca","x":614,"y":-425,"width":686,"height":391,"type":"text","text":"### Bridge\nConexão padrão, usada para conectar varios containers na mesma rede. "},
-		{"id":"1a84e33baed2d2bd","x":1520,"y":-288,"width":632,"height":368,"type":"text","text":"### None\nOnde o container não tem nenhuma conexão de rede\n"},
-		{"id":"3235cb18561bc6df","x":1560,"y":460,"width":680,"height":260,"type":"text","text":"### MacVLAN\nConectamos o container a uma rede fisica "},
-		{"id":"df7e3192681b1404","x":2320,"y":0,"width":640,"height":354,"type":"text","text":"### Overlay \nUtilizado muitas vezes para conectar varias maquinas onde o container D está rodando, muito usado tambem quando estamos falando de docker swarm"},
-		{"id":"7367138c2ccf8c15","x":680,"y":640,"width":709,"height":292,"type":"text","text":"### Host\nConecto o meu container ao mesmo dispositivo de rede do meu computador, é possivel acessar ele da minha rede "}
+		{"id":"a9bd01dfb4f5e95e","type":"text","text":"# Network\n\nÉ uma forma de interligarmos containers em uma só rede para conseguirmos acessar varios serviços em uma mesma rede, pois a natureza padrão de um container é isolamento total \n\n## Componentes\n\n### Container network model\n- Definição de como trabalhar com redes no docker\n### Lib network \n[GitHub - moby/libnetwork: networking for containers](https://github.com/moby/libnetwork)\n https://github.com/moby/libnetwork/blob/master/docs/design.md\n- Implementação desse modelo\n\n## Tipos de Network\n\n- Bridge\n- None\n- Host\n-  MacVLAN\n-  Overlay \n\n## Comandos\n\n```bash\n# Para Criar uma REDE\n\ndocker network create <nome da rede>\n\n# Para conectar um container ja instanciado e criado na minha rede \n\ndocker network connect <nome da rede>\n\n# Para desconectar a rede de algum container que já existe \n\ndocker network disconnect <nome da rede>\n```","x":-200,"y":-320,"width":626,"height":1091},
+		{"id":"d4f9b2a4c0848dca","x":480,"y":-940,"width":686,"height":391,"type":"text","text":"### Bridge\nConexão padrão, usada para conectar varios containers na mesma rede. \n\n## **ATENÇÃOOO**\n**Não se deve trabalhar com ip e container**\n"},
+		{"id":"1a84e33baed2d2bd","x":1340,"y":-460,"width":632,"height":368,"type":"text","text":"### None\nOnde o container não tem nenhuma conexão de rede\n"},
+		{"id":"3235cb18561bc6df","x":1480,"y":640,"width":680,"height":260,"type":"text","text":"### MacVLAN\nConectamos o container a uma rede fisica "},
+		{"id":"df7e3192681b1404","x":1440,"y":120,"width":640,"height":354,"type":"text","text":"### Overlay \nUtilizado muitas vezes para conectar varias maquinas onde o container D está rodando, muito usado tambem quando estamos falando de docker swarm"},
+		{"id":"7367138c2ccf8c15","x":560,"y":770,"width":709,"height":292,"type":"text","text":"### Host\nConecto o meu container ao mesmo dispositivo de rede do meu computador, é possivel acessar ele da minha rede "}
 	],
 	"edges":[
-		{"id":"21a34a733012b009","fromNode":"a9bd01dfb4f5e95e","fromSide":"right","toNode":"d4f9b2a4c0848dca","toSide":"left"},
+		{"id":"21a34a733012b009","fromNode":"a9bd01dfb4f5e95e","fromSide":"top","toNode":"d4f9b2a4c0848dca","toSide":"left"},
 		{"id":"78b817d0dec4839c","fromNode":"a9bd01dfb4f5e95e","fromSide":"right","toNode":"1a84e33baed2d2bd","toSide":"left"},
-		{"id":"37c5f1377bf19ebd","fromNode":"a9bd01dfb4f5e95e","fromSide":"right","toNode":"7367138c2ccf8c15","toSide":"left"},
+		{"id":"37c5f1377bf19ebd","fromNode":"a9bd01dfb4f5e95e","fromSide":"bottom","toNode":"7367138c2ccf8c15","toSide":"left"},
 		{"id":"e9f789f2816efb46","fromNode":"a9bd01dfb4f5e95e","fromSide":"right","toNode":"3235cb18561bc6df","toSide":"left"},
 		{"id":"4deab50df2dda5ba","fromNode":"a9bd01dfb4f5e95e","fromSide":"right","toNode":"df7e3192681b1404","toSide":"left"}
 	]
