@@ -11,12 +11,14 @@
             "id": "f5bd0baa68f9f221",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "DevOps/DevOpsPro/Docker/7. Network.canvas",
+                "viewState": {
+                  "x": 1142.9678753603864,
+                  "y": 470.99295931578604,
+                  "zoom": -1.6
+                }
               }
             }
           }
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "DevOps/DevOpsPro/Docker/7. Network.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "DevOps/DevOpsPro/Docker/7. Network.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "DevOps/DevOpsPro/Docker/7. Network.canvas"
               }
             }
           }
@@ -152,6 +154,8 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
+    "DevOps/DevOpsPro/Terraform/1. Introdução.md",
+    "README.md",
     "DevOps/DevOpsPro/Docker/7. Network.canvas",
     "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/Criando suas próprias Actions.md",
@@ -172,7 +176,6 @@
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240916164945.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240916162735.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240916123511.png",
-    "DevOps/DevOpsPro/Terraform/1. Introdução.md",
     "DevOps/DevOpsPro/Terraform/0. Duvidas e Dicas.md",
     "DevOps/DevOpsPro/Terraform/assets",
     "DevOps/Devops4Devs-8-24/Aula 1 - Desenvolvimento Inteligente com Docker.md",
@@ -193,7 +196,6 @@
     "DevOps/DevOpsPro/GitHub e GitHub Actions/5. Controle de Execução do Workflow.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/4. Input, Output e artefatos no Workflow.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/6. Reaproveitamento de Workflows.md",
-    "README.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/2. Criação do primeiro workflow.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
@@ -204,7 +206,6 @@
     "assets",
     "DevOps/DevOpsPro/Docker/3. Docker Registry.canvas",
     "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.canvas",
-    "DevOps/DevOpsPro/Docker/3..canvas",
     "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
     "Programação/Rocketseat/NLW/Expert/CSharp/Aula 02.md",
     "Programação/Rocketseat/NLW/Unite/DevOps/assets"
