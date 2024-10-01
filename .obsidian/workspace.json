@@ -11,14 +11,12 @@
             "id": "f5bd0baa68f9f221",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/7. Network.canvas",
-                "viewState": {
-                  "x": 1909.686024215899,
-                  "y": -142.31760453372786,
-                  "zoom": -2.1999999999999997
-                }
+                "file": "DevOps/DevOpsPro/Docker/8.  Aplicação 100% no Docker.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/7. Network.canvas",
+                "file": "DevOps/DevOpsPro/Docker/8.  Aplicação 100% no Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/7. Network.canvas",
+                "file": "DevOps/DevOpsPro/Docker/8.  Aplicação 100% no Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/7. Network.canvas"
+                "file": "DevOps/DevOpsPro/Docker/8.  Aplicação 100% no Docker.md"
               }
             }
           }
@@ -154,9 +152,10 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
+    "DevOps/DevOpsPro/Docker/7. Network.canvas",
+    "DevOps/DevOpsPro/Docker/8.  Aplicação 100% no Docker.md",
     "DevOps/DevOpsPro/Terraform/1. Introdução.md",
     "README.md",
-    "DevOps/DevOpsPro/Docker/7. Network.canvas",
     "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/Criando suas próprias Actions.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240921114139.png",
@@ -207,7 +206,6 @@
     "DevOps/DevOpsPro/Docker/3. Docker Registry.canvas",
     "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.canvas",
     "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
-    "Programação/Rocketseat/NLW/Expert/CSharp/Aula 02.md",
     "Programação/Rocketseat/NLW/Unite/DevOps/assets"
   ]
 }
