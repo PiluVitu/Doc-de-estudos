@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/8.  Aplicação 100% no Docker.md",
+                "file": "DevOps/DevOpsPro/0. Duvidas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/8.  Aplicação 100% no Docker.md",
+                "file": "DevOps/DevOpsPro/0. Duvidas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/8.  Aplicação 100% no Docker.md",
+                "file": "DevOps/DevOpsPro/0. Duvidas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/8.  Aplicação 100% no Docker.md"
+                "file": "DevOps/DevOpsPro/0. Duvidas.md"
               }
             }
           }
@@ -152,8 +152,10 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
-    "DevOps/DevOpsPro/Docker/7. Network.canvas",
+    "DevOps/DevOpsPro/Docker/9. Docker Compose.md",
+    "DevOps/DevOpsPro/0. Duvidas.md",
     "DevOps/DevOpsPro/Docker/8.  Aplicação 100% no Docker.md",
+    "DevOps/DevOpsPro/Docker/7. Network.canvas",
     "DevOps/DevOpsPro/Terraform/1. Introdução.md",
     "README.md",
     "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
@@ -205,7 +207,6 @@
     "assets",
     "DevOps/DevOpsPro/Docker/3. Docker Registry.canvas",
     "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.canvas",
-    "Programação/Rocketseat/NLW/Expert/CSharp/Aula 01.md",
     "Programação/Rocketseat/NLW/Unite/DevOps/assets"
   ]
 }
