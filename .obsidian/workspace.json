@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/9. Docker Compose.md",
+                "file": "DevOps/DevOpsPro/Docker/10. Troubleshooting.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/9. Docker Compose.md",
+                "file": "DevOps/DevOpsPro/Docker/10. Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/9. Docker Compose.md",
+                "file": "DevOps/DevOpsPro/Docker/10. Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/9. Docker Compose.md"
+                "file": "DevOps/DevOpsPro/Docker/10. Troubleshooting.md"
               }
             }
           }
@@ -152,8 +152,9 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
-    "DevOps/DevOpsPro/0. Duvidas.md",
     "DevOps/DevOpsPro/Docker/9. Docker Compose.md",
+    "DevOps/DevOpsPro/Docker/10. Troubleshooting.md",
+    "DevOps/DevOpsPro/0. Duvidas.md",
     "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/0. Duvidas.md",
     "DevOps/DevOpsPro/Docker/8.  Aplicação 100% no Docker.md",
