@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/10. Troubleshooting.md",
+                "file": "DevOps/DevOpsPro/Docker/11. Resiliência e Gerenciamento de Recursos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/10. Troubleshooting.md",
+                "file": "DevOps/DevOpsPro/Docker/11. Resiliência e Gerenciamento de Recursos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/10. Troubleshooting.md",
+                "file": "DevOps/DevOpsPro/Docker/11. Resiliência e Gerenciamento de Recursos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/DevOpsPro/Docker/10. Troubleshooting.md"
+                "file": "DevOps/DevOpsPro/Docker/11. Resiliência e Gerenciamento de Recursos.md"
               }
             }
           }
@@ -152,8 +152,9 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
-    "DevOps/DevOpsPro/Docker/9. Docker Compose.md",
     "DevOps/DevOpsPro/Docker/10. Troubleshooting.md",
+    "DevOps/DevOpsPro/Docker/11. Resiliência e Gerenciamento de Recursos.md",
+    "DevOps/DevOpsPro/Docker/9. Docker Compose.md",
     "DevOps/DevOpsPro/0. Duvidas.md",
     "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/0. Duvidas.md",
@@ -203,7 +204,6 @@
     "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions",
     "DevOps/DevOpsPro/Docker/assets/Drawing 2024-06-18 16.00.55.excalidraw.md",
-    "DevOps/DevOpsPro/Docker/assets/Drawing 2024-06-18 11.12.25.excalidraw.md",
     "assets",
     "DevOps/DevOpsPro/Docker/3. Docker Registry.canvas",
     "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.canvas",
