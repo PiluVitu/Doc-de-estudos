@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/11. GitHub Actions e Containers.md",
+                "file": "DevOps/DevOpsPro/GitHub e GitHub Actions/Criando suas próprias Actions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. GitHub Actions e Containers"
+              "title": "Criando suas próprias Actions"
             }
           }
         ]
@@ -168,6 +168,7 @@
   },
   "active": "f5bd0baa68f9f221",
   "lastOpenFiles": [
+    "DevOps/DevOpsPro/GitHub e GitHub Actions/11. GitHub Actions e Containers.md",
     "DevOps/DevOpsPro/Docker/11. Resiliência e Gerenciamento de Recursos.md",
     "DevOps/DevOpsPro/Docker/10. Troubleshooting.md",
     "DevOps/DevOpsPro/Docker/9. Docker Compose.md",
@@ -181,7 +182,6 @@
     "DevOps/DevOpsPro/GitHub e GitHub Actions/Criando suas próprias Actions.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240921114139.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/12. Self Hosted Runners.md",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/11. GitHub Actions e Containers.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240920204450.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240920203227.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240920202546.png",
