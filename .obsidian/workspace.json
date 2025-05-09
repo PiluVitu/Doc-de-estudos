@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Infra/INFRA-BASE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "INFRA-BASE"
             }
           }
         ],
@@ -185,6 +185,9 @@
   },
   "active": "fc894d9f33b223c5",
   "lastOpenFiles": [
+    "README.md",
+    "Infra/INFRA-BASE.md",
+    "Infra",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/5. Controle de Execução do Workflow.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/6. Reaproveitamento de Workflows.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/7. Gerenciamento de ambientes.md",
@@ -206,7 +209,6 @@
     "DevOps/DevOpsPro/Docker/8.  Aplicação 100% no Docker.md",
     "DevOps/DevOpsPro/Docker/7. Network.canvas",
     "DevOps/DevOpsPro/Terraform/1. Introdução.md",
-    "README.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240921114139.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240920204450.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240920203227.png",
@@ -236,10 +238,8 @@
     "DevOps/DevOpsPro/GitHub e GitHub Actions/2. Criação do primeiro workflow.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions",
-    "DevOps/DevOpsPro/Docker/assets/Drawing 2024-06-18 16.00.55.excalidraw.md",
     "assets",
     "DevOps/DevOpsPro/Docker/3. Docker Registry.canvas",
-    "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.canvas",
-    "Programação/Rocketseat/NLW/Unite/DevOps/assets"
+    "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.canvas"
   ]
 }
