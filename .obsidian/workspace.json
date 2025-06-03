@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/0. Duvidas.md",
+                "file": "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/1. Orquestração de Container E Kubernets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "0. Duvidas"
+              "title": "1. Orquestração de Container E Kubernets"
             }
           }
         ],
@@ -183,10 +183,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43a4122aac6da1f6",
+  "active": "fc894d9f33b223c5",
   "lastOpenFiles": [
-    "DevOps/DevOpsPro/Docker/15. Docker e NodeJS.md",
     "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/0. Duvidas.md",
+    "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/1. Orquestração de Container E Kubernets.md",
+    "DevOps/DevOpsPro/Docker/15. Docker e NodeJS.md",
     "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações",
     "DevOps/DevOpsPro/Docker/14. Docker in Docker.md",
     "DevOps/DevOpsPro/Docker/13. Docker API e Docker SDK.md",
@@ -214,7 +215,6 @@
     "DevOps/DevOpsPro/GitHub e GitHub Actions/0. Duvidas.md",
     "DevOps/DevOpsPro/Docker/8.  Aplicação 100% no Docker.md",
     "DevOps/DevOpsPro/Docker/7. Network.canvas",
-    "DevOps/DevOpsPro/Terraform/1. Introdução.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240921114139.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240920204450.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240920203227.png",
