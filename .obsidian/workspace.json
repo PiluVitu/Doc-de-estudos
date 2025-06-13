@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/1. Orquestração de Container E Kubernetes.md",
+                "file": "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/3. Primeiros passo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1. Orquestração de Container E Kubernetes"
+              "title": "3. Primeiros passo"
             }
           }
         ]
@@ -169,13 +169,13 @@
   },
   "active": "163f0929a1e7f8e0",
   "lastOpenFiles": [
+    "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/1. Orquestração de Container E Kubernetes.md",
     "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/2. Montando o seu primeiro ambiente Kubernetes.md",
     "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/3. Primeiros passo.md",
     "DevOps/DevOpsPro/Docker/12. Fazendo um ambiente mais seguro.md",
     "DevOps/DevOpsPro/Docker/13. Docker API e Docker SDK.md",
     "DevOps/DevOpsPro/Docker/14. Docker in Docker.md",
     "DevOps/DevOpsPro/Docker/15. Docker e NodeJS.md",
-    "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/1. Orquestração de Container E Kubernetes.md",
     "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/assets/Pasted image 20250605132730.png",
     "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/assets",
     "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/0. Duvidas.md",
