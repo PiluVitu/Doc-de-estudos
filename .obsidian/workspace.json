@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/3. Primeiros passo.md",
+                "file": "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/1. Orquestração de Container E Kubernetes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3. Primeiros passo"
+              "title": "1. Orquestração de Container E Kubernetes"
             }
           }
         ]
