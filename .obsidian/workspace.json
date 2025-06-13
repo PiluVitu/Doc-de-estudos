@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/1. Orquestração de Container E Kubernets.md",
+                "file": "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/1. Orquestração de Container E Kubernetes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1. Orquestração de Container E Kubernets"
+              "title": "1. Orquestração de Container E Kubernetes"
             }
           }
         ],
@@ -188,7 +188,7 @@
     "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/assets/Pasted image 20250605132730.png",
     "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/assets",
     "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/0. Duvidas.md",
-    "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/1. Orquestração de Container E Kubernets.md",
+    "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/1. Orquestração de Container E Kubernetes.md",
     "DevOps/DevOpsPro/Docker/15. Docker e NodeJS.md",
     "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações",
     "DevOps/DevOpsPro/Docker/14. Docker in Docker.md",
