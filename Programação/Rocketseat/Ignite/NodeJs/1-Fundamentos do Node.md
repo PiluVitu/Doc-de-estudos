@@ -1,6 +1,6 @@
 - Como node roda no server ele não tem acesso a apis do browser como documents e etc
 ## Padrão de Importação
-Precisa ser definido no package json
+Precisa ser definido no package jsona
 ### CommonJs
 Usa o require para importar os modulos
 ```js
