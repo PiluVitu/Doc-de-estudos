@@ -14,6 +14,8 @@ import http from 'http'
 
 - Para importar módulo do node geralmente usamos o prefixo `node:` 
 
+## Stateful - Stateless
+Stateful é uma aplicação que armazena dados em memoria interna para funcionar, caso o app seja reiniciado ou derrubado, a aplicação não funcionará corretamente ou como o planejado, já Stateless é um app onde os dados ficam salvos em ambientes de terceiros(S3, BD, Redis e etc) e caso seja reiniciada ela funciona normalmente 
 ## Rotas http
 
 C reate
