@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N8N/Desafio IA na Prática/DIA 1.md",
+                "file": "Programação/Rocketseat/Ignite/NodeJs/1-Fundamentos do Node.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "DIA 1"
+              "title": "1-Fundamentos do Node"
             }
           }
         ]
@@ -170,8 +170,13 @@
   },
   "active": "163f0929a1e7f8e0",
   "lastOpenFiles": [
-    "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/3. Primeiros passo.md",
     "N8N/Desafio IA na Prática/DIA 1.md",
+    "Programação/Rocketseat/Ignite/NodeJs/1-Fundamentos do Node.md",
+    "Programação/Rocketseat/Ignite/NodeJs",
+    "Programação/Rocketseat/Ignite",
+    "Programação/Rocketseat/Untitled.md",
+    "Untitled.base",
+    "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/3. Primeiros passo.md",
     "N8N/Desafio IA na Prática",
     "N8N",
     "DevOps/DevOpsPro/Kubernetes 2.0 - Aplicações/2. Montando o seu primeiro ambiente Kubernetes.md",
@@ -200,8 +205,6 @@
     "DevOps/DevOpsPro/GitHub e GitHub Actions/4. Input, Output e artefatos no Workflow.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/3. Ambiente de execução de workflow.md",
     "DevOps/DevOpsPro/Terraform/0. Duvidas e Dicas.md",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/Criando suas próprias Actions.md",
-    "DevOps/DevOpsPro/Docker/9. Docker Compose.md",
     "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
     "DevOps/DevOpsPro/Docker/7. Network.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240921114139.png",
@@ -220,9 +223,6 @@
     "DevOps/DevOpsPro/Docker/1. Primeiros passos com docker.canvas",
     "Programação/Pr Live Folder/Back.canvas",
     "Programação/Pr Live Folder/Front.canvas",
-    "Programação/Pr Live Folder/Untitled",
-    "Programação/Pr Live Folder",
-    "DevOps/Devops4Devs-8-24/assets",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
     "DevOps/DevOpsPro/Docker/3. Docker Registry.canvas",
     "DevOps/DevOpsPro/Docker/4. Boas práticas nas criações de imagens.canvas"
