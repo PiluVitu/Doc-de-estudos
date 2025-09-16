@@ -1,0 +1,13 @@
+- Como node roda no server ele não tem acesso a apis do browser como documents e etc
+## Padrão de Importação
+Precisa ser definido no package json
+### CommonJs
+Usa o require para importar os modulos
+```js
+const http = require('http')
+```
+### Module
+Usa import/export para se usar os modulos
+```js
+import http from 'http'
+```
