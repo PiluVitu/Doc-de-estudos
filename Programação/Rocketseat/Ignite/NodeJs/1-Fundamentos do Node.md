@@ -11,3 +11,5 @@ Usa import/export para se usar os modulos
 ```js
 import http from 'http'
 ```
+
+- Para importar módulo do node geralmente usamos o prefixo `node:` 
