@@ -32,3 +32,4 @@ D elete
 ### [Headers](https://fetch.spec.whatwg.org/#concept-header-name) 
 - Contexto da rota (Metadados)
 - Onde defino informações como tokens, status, tipo da req/res
+### [Status Code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status)
