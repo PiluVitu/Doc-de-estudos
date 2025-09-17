@@ -16,7 +16,7 @@ import http from 'http'
 
 ## Stateful - Stateless
 Stateful é uma aplicação que armazena dados em memoria interna para funcionar, caso o app seja reiniciado ou derrubado, a aplicação não funcionará corretamente ou como o planejado, já Stateless é um app onde os dados ficam salvos em ambientes de terceiros(S3, BD, Redis e etc) e caso seja reiniciada ela funciona normalmente 
-## Rotas http
+## Rotas HTTP
 
 C reate
 R ead
@@ -28,3 +28,7 @@ D elete
 #### PUT => Edição de dados em lote
 #### PATCH => Atualizar dado especifico
 #### DELETE => Exclusão de dados
+
+### [Headers](https://fetch.spec.whatwg.org/#concept-header-name) 
+- Contexto da rota (Metadados)
+- Onde defino informações como tokens, status, tipo da req/res
