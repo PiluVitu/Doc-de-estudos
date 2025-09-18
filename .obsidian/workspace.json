@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
-    "collapsed": true
+    "width": 332.5
   },
   "right": {
     "id": "a56413f22027b736",
@@ -171,8 +170,12 @@
   },
   "active": "163f0929a1e7f8e0",
   "lastOpenFiles": [
-    "N8N/Desafio IA na Prática/DIA 1.md",
+    "DevOps/DevOpsPro/Docker/7. Network.canvas",
+    "DevOps/DevOpsPro/Docker/8.  Aplicação 100% no Docker.md",
+    "DevOps/DevOpsPro/Docker/9. Docker Compose.md",
+    "DevOps/DevOpsPro/Docker/1. Primeiros passos com docker.canvas",
     "Programação/Rocketseat/Ignite/NodeJs/1-Fundamentos do Node.md",
+    "N8N/Desafio IA na Prática/DIA 1.md",
     "Programação/Rocketseat/Ignite/NodeJs",
     "Programação/Rocketseat/Ignite",
     "Programação/Rocketseat/Untitled.md",
@@ -203,11 +206,7 @@
     "DevOps/DevOpsPro/GitHub e GitHub Actions/11. GitHub Actions e Containers.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/10. Segurança.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/9. Debug e Logs no GitHub Actions.md",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/4. Input, Output e artefatos no Workflow.md",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/3. Ambiente de execução de workflow.md",
-    "DevOps/DevOpsPro/Terraform/0. Duvidas e Dicas.md",
     "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
-    "DevOps/DevOpsPro/Docker/7. Network.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240921114139.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240920204450.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240920203227.png",
@@ -221,7 +220,6 @@
     "DevOps/DevOpsPro/Terraform",
     "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
     "DevOps/DevOpsPro/Docker/2. Primeiros passos com Docker Images.canvas",
-    "DevOps/DevOpsPro/Docker/1. Primeiros passos com docker.canvas",
     "Programação/Pr Live Folder/Back.canvas",
     "Programação/Pr Live Folder/Front.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/1. Automação e CI-CD.canvas",
