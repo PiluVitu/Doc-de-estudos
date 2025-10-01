@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/Rocketseat/Ignite/NodeJs/1-Fundamentos do Node.md",
+                "file": "Programação/Rocketseat/Ignite/Go/1_Primeiros Passos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1-Fundamentos do Node"
+              "title": "1_Primeiros Passos"
             }
           }
         ]
@@ -164,16 +164,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "163f0929a1e7f8e0",
   "lastOpenFiles": [
+    "Programação/Rocketseat/Ignite/Go/2_Conceitos Avançados.md",
+    "Programação/Rocketseat/Ignite/Go/1_Primeiros Passos.md",
+    "Programação/Rocketseat/Ignite/NodeJs/1-Fundamentos do Node.md",
+    "Programação/Rocketseat/Ignite/Go",
     "DevOps/DevOpsPro/Docker/7. Network.canvas",
     "DevOps/DevOpsPro/Docker/8.  Aplicação 100% no Docker.md",
     "DevOps/DevOpsPro/Docker/9. Docker Compose.md",
     "DevOps/DevOpsPro/Docker/1. Primeiros passos com docker.canvas",
-    "Programação/Rocketseat/Ignite/NodeJs/1-Fundamentos do Node.md",
     "N8N/Desafio IA na Prática/DIA 1.md",
     "Programação/Rocketseat/Ignite/NodeJs",
     "Programação/Rocketseat/Ignite",
@@ -204,7 +208,6 @@
     "DevOps/DevOpsPro/GitHub e GitHub Actions/12. Self Hosted Runners.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/11. GitHub Actions e Containers.md",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/10. Segurança.md",
-    "DevOps/DevOpsPro/GitHub e GitHub Actions/9. Debug e Logs no GitHub Actions.md",
     "DevOps/DevOpsPro/Docker/6. Docker Volumes.canvas",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240921114139.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240920204450.png",
@@ -216,7 +219,6 @@
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240916164945.png",
     "DevOps/DevOpsPro/GitHub e GitHub Actions/assets/Pasted image 20240916162735.png",
     "DevOps/DevOpsPro/Terraform/assets",
-    "DevOps/DevOpsPro/Terraform",
     "DevOps/DevOpsPro/Docker/5. Multistage Build.canvas",
     "DevOps/DevOpsPro/Docker/2. Primeiros passos com Docker Images.canvas",
     "Programação/Pr Live Folder/Back.canvas",
