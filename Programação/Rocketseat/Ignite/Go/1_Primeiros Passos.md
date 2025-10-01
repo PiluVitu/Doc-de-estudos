@@ -64,6 +64,45 @@ Essa condição pode ser quebrada quando usamos a pasta `internal` em um package
 
 
 > É possivel exibir variaveis interna por meio de prints em funções publicas
+## Funções 
+Funções são trechos de códigos e podemos definir parâmetros para poder usar dentro da função
+- É necessário tipar parâmetro e retorno
+- Podemos declarar o nome das variáveis nos parâmetros
+- Podemos declarar mais de um retorno e tipar eles
+- Podemos criar high order function
+- Podemos informar uma quantidade variavel de argumentos
+```go
+func dividir(a,b int) (res int, rem int) {
+	res = a/b
+	rem = a%b
+	return res, rem
+}
+
+func nameAndAge(a string,b int) string {
+	return a + b
+}
+
+func somar(a int) func(int)int {
+		//Clousure function	
+	return func(b int) int {
+		return a + b
+	}
+}
+
+x := somar(2)(3)
+
+
+func somarMoreThenTwoNumbers(nums ...int) int {
+	var out int 
+	for _, n := range nums {
+		out += n
+	}
+	return out
+}
+```
+> Cuidado com naked return diferente do TS, não é uma boa pratica no golang
+
+
 ## Variaveis 
 
 - Podemos definir var em dois contextos, dentro de funções ou em packages.
@@ -84,7 +123,7 @@ Dentro de funções podemos declarar as variaveis de um jeito mais simplificado,
 ```go
 func main() {
 	nome := "Pilu"
-	jsobrenome := "Vitu"
+	sobrenome := "Vitu"
 	var x int8 = 20
 
 	fmt.Println(nome, sobrenome,x)
