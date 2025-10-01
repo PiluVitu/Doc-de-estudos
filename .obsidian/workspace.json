@@ -164,8 +164,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "publish:Publish changes...": false
     }
   },
   "active": "163f0929a1e7f8e0",
